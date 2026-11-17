@@ -1,0 +1,204 @@
+{
+ "report_id": "2026-11-11-1800",
+ "created_at": "2026-11-11T18:00:00+08:00",
+ "title": "新词监控 第 12 期 · 2026-11-11 18:00（北京时间）",
+ "summary_md": "**本期新入库 1 个词（发现偏晚）：pelado bicampeón IA（4.4 分）。** 阿根廷罗萨里奥中央队一名光头球迷 11/07 误以为夺冠大喊“somos bicampeones”，成了全网笑柄；11/08 起网友用 AI 视频把他放进进球庆祝、Di María 告知坏消息、和 Enner Valencia 打架等场景，X 上有“QUE IA USAN?”（1,230 赞）和“求人用 IA 做”（844 赞）的提问。已满足入库三条，但 T0 距今约 64 小时、AI 版帖数 11/09 见顶后明显回落，只在阿根廷传播，因此总分偏低；没有专门工具页、精确域名未注册。肖像（普通人）和平台政策风险是玩法核心，请审核。\n\n其余开放发现（TikTok 登录态搜索与 13 组英/西/葡格式查询、X 英/西/葡格式检索、两个玩法追踪站、CapCut 模版页、西语媒体、Shazam、Reddit、YouTube Shorts、联想 diff）没有找到 T0 在 72 小时内且已有两个独立复制的其他新格式。",
+ "trends_md": "- **地方走红人物 → AI 角色植入**是本期唯一成立的新格式：从真实片段走红到第一批 AI 版不到 20 小时（11/07 22:45 → 11/08 18:09），AI 版高峰只维持了约一天（11/09），之后就由通用“把人放进视频”工具号接手营销。\n- **国际比赛周**（11/9–11/17）期间欧洲与墨西哥联赛停赛，比赛日带来的庆祝类新格式少；接下来的看点是 11/12 Latin GRAMMY（拉斯维加斯，北京时间 11/13 上午直播）、11/13 阿根廷 vs 乌拉圭、11/14 日本 vs 巴西、11/14 牙买加 vs 墨西哥。\n- **黄仁勋绯闻引发的 AI 恶搞视频**在 11/09 起量，但每条内容各不相同、还没有固定格式，也没看到“怎么做”的提问，暂不入库。",
+ "dropped_md": "本轮看到但不进正式报告的候选（原因）：\n- **Angel or Devil Filter**（头顶天使/恶魔百分比，CapCut 特效）：教程 10/12 起，T0 远超 72 小时；11 月俄语圈有扩散，但没有可核实的加速数据；已有工具站专页。\n- **Christmas Photobooth**（两人圣诞拍贴）：追踪站称原帖 11/08（已超 48 小时）；YouTube 上同名趋势多为真人照相馆拍贴，不一定需要 AI；X 上 0 帖。\n- **Gemini Rain 情侣雨中拥抱（一图滤镜）**：TikTok 上 15 小时内有 3 个账号发同一教程配文，但格式在 2025-10 已有教程、多家提示词站和工具站早有专页，属于旧格式的又一波复制；核心是 Gemini 直接出图，不满足“通用聊天 AI 交不出”。\n- **Boss Kay 肖像提示词**：10/18 起，48 小时内没有新的多账号复制，Gemini 直接出图。\n- **Aproveita Que Eu Tô Brigado（葡语一图模版）**：只有 1 个账号（23 小时前）。\n- **生日 12 November CapCut 模版、一张照片 AI 模版教程**：非 AI 的季节性模版 / 同一账号自发，不算独立复制。\n- **WhatsApp 长按 GIF 存贴纸**：功能玩法，不需要 AI。\n- **arcano pessoal**（巴西塔罗“个人大阿卡纳”）：按生日算牌，聊天 AI 即可。\n- **GTA 6 AI 加载画面/假实机**：老玩法，目前只有工具号在推；GTA 6 11/19 发售时再看。\n- **Malfoid**：KYM 9/30 就有，帖数在回落。",
+ "watchlist_md": "- 11/12 Latin GRAMMY（北京时间 11/13 上午）：颁奖礼上的出圈片段和表演钩子。\n- 11/13 阿根廷 vs 乌拉圭、11/14 日本 vs 巴西、11/14 牙买加 vs 墨西哥：庆祝动作和球迷片段。\n- 11/19 GTA 6 发售：是否出现新的“把自己放进 GTA 6”固定格式。",
+ "gaps_md": "- **TikTok**：本轮用登录态做了只读搜索（13 组英/西/葡格式查询 + 候选复查），但该扫描早于 pelado bicampeón 线索，**没有在 TikTok 上搜这个词**，其 TikTok 复制数和原作者未核。**Creative Center**：跳转到 TikTok One 需另行登录，没有地区数据。\n- **Instagram Reels**：未看成（无账号，需登录）。\n- **Reddit**：r/memes、r/soccer、r/CFB、r/PremierLeague、r/StableDiffusion 本轮返回空（429/无数据），未看成。\n- **kworb**：本轮未用，只看了 Shazam 分国家榜（AR/MX/ES/BR；DO 页面跳到了马来西亚榜，未看成）。\n- **YouTube Shorts**：只看了搜索结果标题（本周筛选），Shorts 卡片不显示发布时间；评论未看。\n- **工具链侧（HF/Replicate/fal）**：本轮压缩，未复跑。\n- **库存词**：本轮未逐一复查（时间优先给开放发现）。",
+ "sources": [
+  {
+   "name": "X 格式检索（英/西/葡问句与格式词，start_time 2026-11-10T08:51Z）",
+   "url": "https://x.com/explore"
+  },
+  {
+   "name": "AI Trend Club（带原帖日期的玩法清单）",
+   "url": "https://aitrendclub.com/trends"
+  },
+  {
+   "name": "Remake the Trend（玩法清单）",
+   "url": "https://remakethetrend.com/trends"
+  },
+  {
+   "name": "CapCut 模版浏览页（en / es-es / es-la / pt-br）",
+   "url": "https://www.capcut.com/template"
+  },
+  {
+   "name": "Shazam 分国家 Top 200",
+   "url": "https://www.shazam.com/charts/top-200/argentina"
+  },
+  {
+   "name": "Olé（经 Google News）：El hincha de la radio y el festejo trunco de Central（11/09）",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmZBS2szYlBrQjZ1Qzg3aHMySTZUQ09iVDNzYWF2QzI5SnQ4RVZWN1FRU1Z1RDROd29TTjY0Q1dmSHVmNk15MHBINUppMTI3MWVlVlJGSWdmWldTUmxyWjZCa21tMW1CdUx1ZDRXTHpSM1JOeHRqUG9WN0xQeGhlZl9sOG8xRXI2V2hBUjBISHpOSTBwTHdXZVdtRDhaejZ1TzVVX2FZLVM1OVBvbi1DSA?oc=5"
+  },
+  {
+   "name": "Radio Gol：pelado bicampeón",
+   "url": "https://www.radiogol.com.ar/futbol/la-fuerte-amenaza-en-redes-de-eric-grennon-el-hincha-viral-de-central-que-grito-somos-bicampeones-234808/"
+  },
+  {
+   "name": "YouTube 搜索（本周）",
+   "url": "https://www.youtube.com/results?search_query=pelado+bicampeon+ia"
+  }
+ ],
+ "keywords": [
+  {
+   "keyword": "pelado bicampeón IA",
+   "aliases": [
+    "pelado bicampeón",
+    "pelado de Central",
+    "somos bicampeones meme",
+    "hecho con ia somos bicampeones meme",
+    "Eric Grennon（媒体所指的当事人姓名，未独立核实）"
+   ],
+   "search_variants": [
+    {
+     "text": "pelado bicampeon meme",
+     "status": "已观察到"
+    },
+    {
+     "text": "pelado bicampeon memes",
+     "status": "已观察到"
+    },
+    {
+     "text": "pelado de central meme",
+     "status": "已观察到"
+    },
+    {
+     "text": "hecho con ia somos bicampeones meme",
+     "status": "已观察到"
+    },
+    {
+     "text": "pelado bicampeón IA",
+     "status": "推测"
+    },
+    {
+     "text": "video IA pelado bicampeón",
+     "status": "推测"
+    },
+    {
+     "text": "cómo hacer video del pelado bicampeón con IA",
+     "status": "推测"
+    }
+   ],
+   "cn_explain": "阿根廷罗萨里奥中央队一名光头球迷在 11/07 比赛中误以为夺冠、大喊“somos bicampeones”，结果博卡最后时刻进球夺冠，他成了全网笑柄。随后网友用 AI 视频把这名“pelado bicampeón”放进各种场景：换进球员进球庆祝、Di María 当面告诉他坏消息、和 Enner Valencia 打架、跟名人坐车等——固定做法是“拿他的照片 + 一个名人或比赛场景，生成一段新视频”。",
+   "category": "视频",
+   "format_class": "足球庆祝与运动员",
+   "tool_type": "参考图生视频/角色植入（一张照片放进指定场景）",
+   "source_platform": "X 格式检索（西语 \"QUE IA USAN\" 类问句，has 视频，2026-11-11 10:17 UTC）→ 顺着被引用视频回溯",
+   "source_url": "https://x.com/Expefutbol/status/2120168091308994579",
+   "first_seen": "原始片段：2026-11-07 约 22:45 UTC（X 上最早见 @educandoL1974 22:48、@NewellsTai 22:50 转发现场片段）；AI 版最早见 2026-11-08T18:09:54Z（@derechazoarg 转发，原作者未知）",
+   "breakout_date": "2026-11-09",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 帖数（\"pelado de central\" OR \"pelado bicampeón\"，2026-11-11 10:18 UTC 查）：11/07 235 → 11/08 4,049 → 11/09 2,521 → 11/10 1,705 → 11/11 截至 10:18 564。其中带 IA/AI 的子集：11/08 114 → 11/09 362 → 11/10 54 → 11/11 2，AI 版本身在 11/09 见顶后明显回落。单条数据：@denewellsamorir 的 Di María AI 版 729,163 次观看；@derechazoarg 转发的 AI 庆祝版 29,979 次观看、2,473 赞；@RinconDeBoca 发的 AI 打架版 42,327 次观看；YouTube Shorts 搬运“EL PELADO BICAMPEÓN 🥊vs ENNER VALENCIA”11.7 万次观看（本周筛选，发布时间未显示）。媒体：Olé、TyC Sports 11/09 报道这次“festejo trunco”；chisme.com.ar 报道 AI 版 Di María 视频走红。Google 联想（AR）已出现“pelado bicampeon meme”，YouTube 联想出现“pelado bicampeon memes”；“pelado bicampeon ia”无联想（均为本轮查看）。",
+   "extra_links": [
+    "https://x.com/derechazoarg/status/2119492624935801340",
+    "https://x.com/denewellsamorir/status/2119600875182383455",
+    "https://x.com/Rheinvselatraga/status/2119950880191684895",
+    "https://x.com/Expefutbol/status/2120168091308994579",
+    "https://x.com/Frases_Sapardo/status/2119452135972655305",
+    "https://x.com/RinconDeBoca/status/2120164747073176024",
+    "https://x.com/Inpersonatorapp/status/2120365055506342270",
+    "https://x.com/derechazoarg/status/2119793212374368616",
+    "https://www.youtube.com/shorts/hyWQXN-GyZE",
+    "https://www.radiogol.com.ar/futbol/la-fuerte-amenaza-en-redes-de-eric-grennon-el-hincha-viral-de-central-que-grito-somos-bicampeones-234808/"
+   ],
+   "copy_evidence": [
+    {
+     "url": "https://x.com/derechazoarg/status/2119492624935801340",
+     "account": "@derechazoarg（3.4 万粉的阿根廷足球梗聚合号转发；原作者未知）",
+     "posted_at": "2026-11-08T18:09:54Z",
+     "data_seen": "AI 把这名球迷换进球员进球庆祝的 15 秒视频；29,979 次观看、2,473 赞（2026-11-11 10:19 UTC）；本轮抽帧确认画面为他穿 13 号中央队球衣在场上庆祝"
+    },
+    {
+     "url": "https://x.com/denewellsamorir/status/2119600875182383455",
+     "account": "@denewellsamorir（纽维尔老男孩球迷号，150 粉）",
+     "posted_at": "2026-11-09T01:20:03Z",
+     "data_seen": "AI 版 Di María 当面告诉他坏消息，37 秒；729,163 次观看、2,247 赞（2026-11-11 10:18 UTC）"
+    },
+    {
+     "url": "https://x.com/Rheinvselatraga/status/2119950880191684895",
+     "account": "原作者未知（@Rheinvselatraga 发的录屏 GIF，配文“video ia de valencia y el pelado bicampeon cantando en un poco de ruido”）",
+     "posted_at": "2026-11-10T00:30:51Z",
+     "data_seen": "7 赞、273 次展示；这是第三种 AI 场景（和 Valencia 一起唱歌），发布时间为看到的最晚时间，原帖时间未知"
+    }
+   ],
+   "user_need": "想要的是“把这个光头球迷放进某个名人或比赛场景里的一段视频”。原话：@Expefutbol 11/10 14:53“NECESITO SABER COMO HACEN ESTOS VIDEOS, QUE IA USAN?”（1,230 赞、297 收藏，回复里有人答 Higgsfield / Higgsfield Genjutsu / manus，有人问“es pago no?”）；@Frases_Sapardo 11/08 15:29“Algún CHAD que haga este video con IA poniendo al pelado de Central?”（844 赞）；@HarrydeRiver“los videos del pelado bicampeon cuando lo hacen con IA”。联想：只出现“pelado bicampeon meme(s)”，未出现带 IA 的写法。",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "要的是带真人脸、动作和场景的视频；聊天 AI 只能给提示词，交不出视频（回复里大家指向 Higgsfield 等视频工具）",
+   "underlying_models": "参考图生视频/多参考主体视频（Seedance 2.5、Kling、Higgsfield 一类）：一张球迷照片 + 一张名人/场景参考 + 提示词；难点是两个人的脸都要像、动作自然，以及真人肖像相关的平台限制",
+   "cost_estimate": "未知（未实测）；同类 10–15 秒参考图生视频单次大约在几毛到 1 美元量级（推测，未核实）",
+   "difficulty": "中",
+   "competition": "搜“pelado bicampeón IA”只看到新闻和社媒，没有专门的工具页（2026-11-11 本轮 WebSearch）。在借这个梗做营销的：@Inpersonatorapp（impersonator.com.ar，简介“Pone a la persona que quieras en el video que quieras”，11/11 03:56 发了他和名人坐车的 AI 视频，216 赞）；@LaNovelaIA（AI 视频号兼卖 app，打架视频带它的水印，并在提问帖下回复“Con nuestra app!”）。另有 Higgsfield 被网友点名为制作工具。",
+   "domain_taken": "否（精确域名 RDAP 404，未注册）",
+   "domains": [
+    {
+     "domain": "peladobicampeon.com",
+     "status": "未注册（RDAP 404，2026-11-11 10:30 UTC）"
+    },
+    {
+     "domain": "peladobicampeonia.com",
+     "status": "未注册（RDAP 404，2026-11-11 10:30 UTC）"
+    },
+    {
+     "domain": "peladobicampeon.com.ar",
+     "status": "未查到注册（rdap.org 404；.ar 的 RDAP 覆盖未核实）"
+    }
+   ],
+   "pay_potential": "低",
+   "pricing_model": "单次付费（一段 10–15 秒视频），或做成“把任何人放进梗场景”的通用页，把这个词当入口",
+   "score_parts": {
+    "timing": {
+     "score": 1,
+     "basis": "T0 最早 2026-11-08 18:09 UTC，入库 10:29 UTC（2026-11-11），时效 64.3 小时，落在 48–72 小时档"
+    },
+    "heat": {
+     "score": 2,
+     "basis": "只在阿根廷一个国家；X 与 YouTube Shorts 都有多个账号在做，但 AI 子集帖数 11/09 362 → 11/10 54 → 11/11 2，在明显减速"
+    },
+    "demand": {
+     "score": 3,
+     "basis": "有明确的“qué IA usan”和“求人用 IA 做”提问（1,230 赞和 844 赞），但联想里只有 meme，没有 IA 写法"
+    },
+    "competition": {
+     "score": 3,
+     "basis": "没有专门工具页、精确域名未注册；但已有两家通用的“把人放进视频”工具号（Inpersonator、LaNovelaIA）在借这个梗营销"
+    },
+    "monetize": {
+     "score": 2,
+     "basis": "现有参考图生视频模型做得出，但这是正在退热的本地梗，主角是普通人，单次付费意愿看不出证据"
+    },
+    "total": 44
+   },
+   "score": 4.4,
+   "risks": "肖像：有——主角是一名普通球迷（媒体称其为 Eric Grennon，本轮未独立核实），另外常带入 Di María、Enner Valencia、AFA 主席 Chiqui Tapia 等真人；他的脸是玩法核心，换掉就不是这个梗。商标：有——罗萨里奥中央队（以及博卡、纽维尔老男孩）的队徽和球衣出现在原片和 AI 版里，换成无标识球衣玩法仍成立。原声：未发现（AI 版各配各的声音，没有看到统一原声）。版权：有——原始片段来自比赛转播或现场手机视频，AI 版常截用转播画面；去掉转播画面玩法仍成立。平台政策：有——对真实普通人做深度伪造恶搞，部分版本是打架、被警察带走等情节，可能触及平台关于真人深伪与骚扰的规则；媒体还报道当事人账号出现过威胁性言论截图（Radio Gol，11/08），这一项是玩法核心。",
+   "risk_types": [
+    "肖像",
+    "商标",
+    "版权",
+    "平台政策"
+   ],
+   "risk_level": "高",
+   "regions": "西语，阿根廷（罗萨里奥为中心，博卡/纽维尔球迷参与传播）；未见其他国家的地区版本",
+   "status": "新",
+   "t0": {
+    "earliest": "2026-11-08T18:09:54Z",
+    "latest": "2026-11-09T01:20:03Z"
+   },
+   "t0_basis": "第二个独立 AI 版本的时间无法精确确定：本轮能核到的最早 AI 版是 @derechazoarg 11/08 18:09 转发的庆祝版（原作者未知），第二个独立作者是 @denewellsamorir 11/09 01:20 的 Di María 版。原作者在 TikTok 上可能更早，因此取区间，时效按较早端算",
+   "discovered_at": "2026-11-11T10:17:00Z",
+   "ingested_at": "2026-11-11T10:29:21Z",
+   "lag_hours": 64.3,
+   "stage": "24 小时以上",
+   "late": true,
+   "uncertainties": [
+    "@derechazoarg 那条 AI 庆祝版的原作者和原发平台（多半是 TikTok）未知",
+    "和 Valencia 一起唱歌的 AI 版原作者、原帖时间未知，只见到录屏 GIF",
+    "打架版带 @LaNovelaIA 水印，它是卖 app 的 AI 内容号，按规则算竞争而不算独立复制",
+    "TikTok 上的复制数量、同名 CapCut 模版是否存在，本轮未看（TikTok 登录态扫描早于这条线索，没有搜这个词）",
+    "当事人身份（Eric Grennon）来自媒体，未独立核实",
+    "单次成本未实测"
+   ]
+  }
+ ]
+}

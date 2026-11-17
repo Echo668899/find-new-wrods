@@ -1,0 +1,105 @@
+{
+ "source": "path-samples.md",
+ "updated_at": "2026-11-11T08:11:38Z",
+ "samples": [
+  {
+   "name": "Ozil AI",
+   "aliases": [
+    "Özil AI",
+    "Mesut Özil AI"
+   ],
+   "status": "路径样本",
+   "format_class": "足球庆祝与运动员",
+   "raw_alias_line": "Özil AI、Mesut Özil AI",
+   "names": [
+    "Ozil AI"
+   ],
+   "extra_aliases": [
+    "Ozil Goal AI",
+    "gol de Özil IA",
+    "ozil ai"
+   ]
+  },
+  {
+   "name": "Enzo Fernandez AI",
+   "aliases": [
+    "Enzo Fernández AI"
+   ],
+   "status": "路径样本",
+   "format_class": "足球庆祝与运动员",
+   "raw_alias_line": "Enzo Fernández AI",
+   "names": [
+    "Enzo Fernandez AI"
+   ],
+   "extra_aliases": [
+    "Topo Gigio trend",
+    "festejo de Enzo",
+    "Enzo celebration AI"
+   ]
+  },
+  {
+   "name": "dime dime baby",
+   "aliases": [
+    "BbY WOW"
+   ],
+   "status": "路径样本",
+   "format_class": "热歌钩子与跟跳",
+   "raw_alias_line": "BbY WOW（KAROL G）",
+   "names": [
+    "dime dime baby"
+   ],
+   "extra_aliases": [
+    "KAROL G BbY WOW"
+   ]
+  },
+  {
+   "name": "hit the road dude / state property meme",
+   "aliases": [],
+   "status": "路径样本",
+   "format_class": "老片复活",
+   "raw_alias_line": "两个词是同一条梗里的两句台词；源片标题是“Angry grandpa kicks me out my fishing spot”",
+   "names": [
+    "hit the road dude",
+    "state property meme"
+   ],
+   "extra_aliases": [
+    "hit the road dude",
+    "state property",
+    "Lock 'Em Up"
+   ]
+  },
+  {
+   "name": "Tiny Desk AI",
+   "aliases": [
+    "Charlie Wilson Tiny Desk",
+    "Outstanding"
+   ],
+   "status": "路径样本",
+   "format_class": "老片复活",
+   "raw_alias_line": "Charlie Wilson Tiny Desk、Outstanding",
+   "names": [
+    "Tiny Desk AI"
+   ],
+   "extra_aliases": [
+    "outstanding tiny desk"
+   ]
+  },
+  {
+   "name": "Bulin 47",
+   "aliases": [
+    "Dame Hombro",
+    "Dame Hombro Challenge",
+    "Kevin Wai"
+   ],
+   "status": "路径样本",
+   "format_class": "街头 freestyle 和 dembow",
+   "raw_alias_line": "Dame Hombro、Dame Hombro Challenge、Kevin Wai",
+   "names": [
+    "Bulin 47"
+   ],
+   "extra_aliases": [
+    "Kevin Wai freestyle"
+   ]
+  }
+ ]
+}

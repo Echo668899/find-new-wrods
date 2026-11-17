@@ -1,0 +1,45 @@
+{
+ "report_id": "2026-11-11-1710",
+ "created_at": "2026-11-11T17:10:00+08:00",
+ "title": "新词监控 第 11 期 · 2026-11-11 17:10（北京时间）· 本轮无新词",
+ "summary_md": "**本轮无新词。** 按新规则跑了开放发现（X 格式检索中英西、CapCut 模版页、Shazam 分国家榜、西语新闻与娱乐媒体、Google/YouTube/TikTok 联想 diff、TikTok 登录态搜索一次、第三方趋势追踪站），没有找到同时满足“T0 在 72 小时内（或过去 24 小时仍在明显加速）、至少两个独立账号复制、有视频/图片结果需求、工具站窗口未占满”的词。\n\n**这一轮最重要的发现是时间窗口：** 凡是能查到来源日期的消费侧 AI 玩法，T0 都在 10 月上旬到 11/7 之间（距今 4 天以上），而且每个都已有 3–5 个以上“一张照片套用”工具站（remakethetrend、makeviral、aitrendclub、aidanceapp 等）。这类站通常在原帖后 1–4 天内就上线专页，所以真正能抢到先手的窗口大约只有 T0 后的前 24–48 小时。X 对这些 TikTok 原生玩法几乎没有信号（候选词每天 0–6 帖），因此 X 只能做兜底，不能当早发现入口。",
+ "trends_md": "- **第三方趋势追踪站可以当“有日期的线索入口”**：aitrendclub.com/trends 给出每个玩法的“原帖发布日期”，remakethetrend.com/trends 按新旧排序并给出近 7 天复制账号数。它们是工具厂商（计入竞争，不算独立复制），但能把发现提前到 T0 后 1–2 天；下轮起每轮扫一遍，只看原帖日期在 48 小时内的条目。\n- **TikTok 近 24 小时内最新鲜的复制簇是 Gemini 提示词类**（Gemini Rain、Boss Kay 肖像）：核实后都是 10 月甚至 2025 年就有的旧格式、且通用聊天 AI（Gemini）就能直接出结果，不符合入库条件。\n- **西语线**：墨西哥、阿根廷、西班牙 Shazam 榜前列的新歌里没有出现带 AI 玩法的新格式；西语新闻里的“Frutinovelas”“AI 80 年代照片”等均为 9 月之前的旧玩法。",
+ "dropped_md": "以下都是本轮看到、但**不进正式报告**的玩法（T0 已超 72 小时，且近 24 小时没有可核实的明显加速，工具站已占满）；留在内部记录里，下轮若出现新格式再说：\n- **Rubber Band Prank**（橡皮筋弹回脸）：教程 11/6 起，T0 约 11/5–11/7；至少 3 个工具站。\n- **Grandpa Said He'd Handle Dinner（fish cutting meme，葡语 picar peixe）**：11/3 起，≈13M 播放；至少 5 个工具站。\n- **Chased by Hyenas**：11/2–11/5 起；至少 5 个工具站。\n- **Cat on Ultra Bee**：原帖 11/5，模版 11/7 起；至少 5 个工具站。\n- **Deck the Halls Dance**：11/3 起；至少 5 个工具站。\n- **I Want Wings**：11/3 起。\n- **La Mujer del Pelotero 舞**（西语，墨西哥为主）：T0 10/8，Tokchart 显示近一天新增 1.12 万条、较前一天 −10%，已回落；至少 4 个工具站。\n- **Gemini Rain 情侣雨中拥抱 / Boss Kay 肖像提示词**：格式 2025 年 10 月（Rain）、2026 年 10 月中（Boss Kay）就有；Gemini 本身即可出图，不满足“通用聊天 AI 交不出”。",
+ "watchlist_md": "- 下轮优先：扫 aitrendclub.com/trends 与 remakethetrend.com/trends 里原帖日期在 48 小时内的新条目。",
+ "gaps_md": "- **TikTok**：登录态只成功搜了一次（10 个格式词的视频标签页），话题页/原声页第二次访问被滑块验证拦住；**Creative Center（分国家热门歌曲/话题）需要另一个商业账号登录，未看成**。\n- **Instagram Reels**：未看成（需登录）。\n- **YouTube Shorts 标题/评论**：未看成。\n- **CapCut 模版**：只看了英/西/葡语三个模版浏览页（约 330 个，按 ID 里的时间戳判断，近 72 小时的只有生日、周年、日历等非 AI 模版）；站内搜索对新模版有滞后，Rubber Band、Hyenas 等在站内搜不到。\n- **工具链侧（HF/Replicate/fal）**：本轮压缩，只看了开放发现，未复跑模型榜。\n- 第三方趋势站的“近 7 天创作者数”由厂商自己统计，未独立核实。",
+ "sources": [
+  {
+   "name": "X 格式检索（英/西，has:videos）+ 候选词 7 日帖数",
+   "url": "https://x.com/explore"
+  },
+  {
+   "name": "CapCut 模版浏览页（en / es-es / pt-br）",
+   "url": "https://www.capcut.com/template"
+  },
+  {
+   "name": "Shazam 分国家 Top 200（MX/AR/ES/DO/BR）",
+   "url": "https://www.shazam.com/charts/top-200/mexico"
+  },
+  {
+   "name": "AI Trend Club（带原帖日期的趋势清单）",
+   "url": "https://aitrendclub.com/trends"
+  },
+  {
+   "name": "Remake the Trend（按新旧排序的趋势清单）",
+   "url": "https://remakethetrend.com/trends/"
+  },
+  {
+   "name": "Turnly 本周 TikTok AI 视频趋势",
+   "url": "https://turnphotointovideo.com/ai-video-trends/"
+  },
+  {
+   "name": "Tokchart 原声统计",
+   "url": "https://tokchart.com/"
+  },
+  {
+   "name": "Know Your Meme",
+   "url": "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy"
+  }
+ ],
+ "keywords": []
+}

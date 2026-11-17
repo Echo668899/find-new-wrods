@@ -1,0 +1,19 @@
+{
+ "report_id": "2026-11-12-0000",
+ "created_at": "2026-11-12T00:00:00+08:00",
+ "title": "新词监控 第 13 期 · 2026-11-12 00:00（北京时间）",
+ "summary_md": "**本轮无新词。** 本轮（2026-11-11 16:11–16:19 UTC）做了开放发现：X 英/西/葡格式问句与格式词检索（窗口 11/10 10:15Z 起）、两个玩法追踪站、CapCut 模版浏览页（en / es-es / es-la / pt-br，361 个模版）与 site: 搜索、西语媒体（9 站 + 主题查询）、Google/YouTube/TikTok 联想 diff、KYM、Reddit、Shazam 五国榜、YouTube 搜索。没有找到 T0 在 72 小时内、且已核实到两个独立账号复制、用户要的是通用聊天 AI 交不出的视频或图片的新格式。\n\nTikTok 登录态还在，但本轮一搜索就弹出滑块验证，没能看到搜索结果；Instagram 仍无账号。这两个原发平台本轮都没看成，见“盲区”。",
+ "trends_md": "- 追踪站本轮没有原帖在 48 小时内的新条目（AI Trend Club 最新原帖日期为 11/08；Remake the Trend 的“New”标签里没有 48 小时内起来的新玩法）。\n- X 上的“用什么 AI / 怎么做”提问本轮大多指向：把 GIF 存成 WhatsApp 贴纸（非 AI 功能玩法）、用聊天 AI 出图的提示词玩法（如“把我变成宝可梦道馆馆主”），都不满足“通用聊天 AI 交不出”。\n- 库存：pelado bicampeón IA 继续回落（X 上 “pelado bicampeón / somos bicampeones” + IA/AI/video：11/09 554 → 11/10 119 → 11/11 截至 16:17 UTC 30，2026-11-11 16:18 UTC 查）。\n- 阿根廷 X 趋势里的“Hecho con IA”本轮看到的帖子是在讨论 X 给图片自动打“hecho con IA”标签，不是一个新玩法。",
+ "dropped_md": "本轮看到但不进正式报告的候选（原因）：\n- **Sasha La Catrina / “Adiós señora bonita” 一图变 Catrina**：TikTok 联想出现“Filtro IA Adiós señora bonita la Catrina”“Plantilla CapCut Adiós señora bonita”，但工具站记录的起量是 10/25，高峰在 11/1–2 亡灵节，X 上该句 11/05 后每天 0–6 帖；T0 远超 72 小时且在回落。\n- **I'm So Sorry AI trend（承认修图的轮播）**：Kapwing 教程 11/07 已发布，T0 早于 11/07（>72 小时）；没看到加速证据。\n- **宝可梦道馆馆主自拍（líder de gimnasio Pokémon）**：西语 X 上有人分享（@analorule9 170 赞），做法是把自拍和提示词交给聊天 AI 出图，聊天 AI 直接能交付。\n- **“el genio malinterpretó mi deseo”**：媒体 11/11 报道，但做法是用 ChatGPT/Gemini 出古典画风的图，聊天 AI 直接能交付。\n- **UWI 毕业袍 AI 照片**（牙买加）：只见一条电视台报道，属 Gemini 一类出图，且无复制证据。\n- **Lá na Minha Terra**（Globo 新剧 11/09 首播）：X 帖数 11/09 6,479 → 11/10 10,193，但是在讨论剧情和开头是否用了 AI，不是可照做的格式。\n- **“Argentina, levántate y camina”**（教宗 11/11 在 Luján 的话，阿根廷 X 趋势）：口号，本轮没看到配套的 AI 视频格式。\n- **ape in pain template**：币圈营销复制帖。\n- **Pope / 足球名宿等 AI 单条视频**：单账号、无固定格式。",
+ "watchlist_md": "- 11/12 意大利 vs 法国、11/13 阿根廷 vs 乌拉圭（Bombonera）、11/14 日本 vs 巴西、11/14 牙买加 vs 墨西哥：庆祝动作和球迷片段。\n- 11/12 20:00 ET Latin GRAMMY（= 11/13 01:00 UTC，北京时间 11/13 09:00）：颁奖礼和表演里的出圈片段、钩子。\n- 11/19 GTA 6 发售：是否出现新的“把自己放进 GTA 6”固定格式。",
+ "gaps_md": "- **TikTok**：本轮搜索出现人机验证，搜索结果、原声页、话题页都没看成；Creative Center 也没看。替代：site:tiktok.com 搜索、X 上带 tiktok.com 链接的帖子。\n- **Instagram Reels**：没看成（还没有账号）。替代：X 上带 instagram.com/reel 链接的帖子、YouTube 搜索。\n- **Reddit**：r/OutOfTheLoop、r/memes、r/soccer、r/PremierLeague、r/aivideo、r/StableDiffusion 返回 429，没看成；r/TikTokCringe、r/CFB 有数据。\n- **Shazam**：AR/MX/ES/BR/DO 五国榜前 120 与上一轮完全相同（可能是榜单未刷新）。\n- **YouTube Shorts**：只看了搜索结果标题，评论没看。\n- **工具链侧（HF/Replicate/fal）**：本轮压缩，未复跑。",
+ "sources": [
+  {"name": "X 格式检索（英/西/葡问句与格式词，start_time 2026-11-10T10:15Z / 2026-11-11T10:15Z）", "url": "https://x.com/explore"},
+  {"name": "AI Trend Club（带原帖日期的玩法清单）", "url": "https://aitrendclub.com/trends"},
+  {"name": "Remake the Trend（玩法清单 / 今日排行）", "url": "https://remakethetrend.com/trends/today/"},
+  {"name": "CapCut 模版浏览页（en / es-es / es-la / pt-br）", "url": "https://www.capcut.com/template"},
+  {"name": "Shazam 分国家 Top 200", "url": "https://www.shazam.com/charts/top-200/argentina"},
+  {"name": "Know Your Meme 新条目", "url": "https://knowyourmeme.com/memes"}
+ ],
+ "keywords": []
+}

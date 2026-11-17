@@ -1,0 +1,49 @@
+{
+  "report_id": "2026-11-15-0000",
+  "created_at": "2026-11-15T00:00:00+08:00",
+  "title": "新词监控 第 16 期 · 2026-11-15 00:00（北京时间）",
+  "summary_md": "**本轮无新词。** 本轮（2026-11-14 约 16:17–16:30 UTC）按开放发现优先做了：日历、X 英/西/葡格式问句与比赛日检索（start_time 2026-11-13T12:16:00Z）、两个玩法追踪站（只看原帖 48 小时内）、CapCut 模版浏览页（en / es-es / pt-br，以及 ?region=es-MX / pt-BR）、西语与葡语联想的官方 diff、kworb Spotify 国家日榜（播放次数榜，不是病毒榜；本轮页面与上一期 HTML 相同）、以及在原发平台进不去时的 X/site 替代检索。TikTok 消费端仍因区域墙没看成。没有找到 T0 在过去 72 小时内（或仍在明显加速）、且已由本轮亲眼核实到至少两个独立账号复制、用户要的是通用聊天 AI 交不出的视频或图片的新格式。",
+  "trends_md": "- 日历：国际比赛日窗口未结束。本轮已核到的完场是日本 3–2 巴西（国际友谊赛，新加坡；NBC Sports 写日本 3–2，Vinícius Júnior 进球，Ancelotti 与 Raphinha 被罚下）。阿根廷 1–2 负乌拉圭已在上一轮窗口。未来 12 小时内、本轮核对时尚未开球的有：葡萄牙 vs 丹麦（欧国联，19:45 UTC，布拉加；BBC Sport 15:49 仍写 kick off）、海地 vs 美国（Concacaf Nations League 四分之一决赛首回合，21:30 UTC，美国足协官网写 Nu Stadium, Miami）、巴甲米拉索尔 vs 米内罗竞技（21:30 UTC / 18:30 巴西利亚时间）、沙佩科恩塞 vs 瓦斯科（23:30 UTC）、墨超克雷塔罗 vs 蒙特雷（23:00 UTC / 17:00 墨西哥城时间，延期补赛）。牙买加 vs 墨西哥（Concacaf 四分之一决赛首回合）开球为 2026-11-15 01:00 UTC（8 p.m. ET / 19:00 墨西哥中部时间），在 12 小时窗口内。个别聚合页在开球前写 0–0 Final，不采信为完场比分。X 上未见配套的庆祝/换人 AI 格式。\n- 拉丁格莱美已在 11/12 举行；本轮西语媒体标题里有用 IA 做获奖预测的报道，没有核到围绕当晚表演的、可照套的新 AI 视频格式。\n- 厂商入口：AI Trend Club 带 “Original posted” 且落在本轮 48 小时窗口（约自 2026-11-12 16:17 UTC）内的条目，本轮仍未能回原平台核实两个独立复制，故不进报告。Remake the Trend 的 `/trends` 与 `/trends/today` 页面与上一期 HTML 相同（站点根路径 `/today` 本轮 404，改开 `/trends/today`）；无新 slug。厂商自称的原帖日期和创作者数只当线索。\n- CapCut 浏览页在 48/72 小时窗口内出现的新模版是周年纪念照片模版和 2027 日历，页面与详情里都没有当成 AI 一图换人格式，不入库。\n- 库存：pelado bicampeón IA 已不在报告范围。X 帖数（“pelado bicampeón / pelado bicampeon / somos bicampeones” + IA/AI/video，2026-11-14 16:23 UTC 查）：11/08 71 → 11/09 554 → 11/10 119 → 11/11 131 → 11/12 75 → 11/13 6 → 11/14 截至 16:23 UTC 1，仍是爆发后回落。TikTok 原平台本轮没看成。\n- X 趋势旁证（约 16:21 UTC）：巴西热搜是 Japão、Ancelotti、Seleção、Vini、Singapura 等比赛话题；葡萄牙有 Dinamarca、Ronaldo、Vini、Japão；墨西哥是 Gabito Ballesteros、#LaMansiónVIP2、Buen Fin 等；阿根廷有 Wanda、Los Pumas、Nations Championship；西班牙偏时政和欧冠相关人名；美国偏大学橄榄球日。其中没有一眼可看成新 AI 格式名的条目。",
+  "dropped_md": "本轮看到但不进正式报告的候选（原因）：\n- **Perdón / I'm so sorry I lied**：官方联想 diff 出现 `trend ia perdon`。这是照片轮播（AI 美化后再一张张揭开到原图，最后写“Perdón”）。PerfectCorp 西语文写发布于 2026-10-29，并称该玩法在 2026 年 10 月中旬起在西语区流行；另一厂商页 datePublished 为 2026-10-21。T0 远早于 72 小时，不是本窗口新格式。\n- **Window Dance / 窗边夜舞**：联想出现 `video con ia bailando en la ventana`。Remake 西语页写这是约 10 月底的 CapCut 模版，原帖线索写 9 月，本站 11/6 收录；该条目已在上一期 Remake 列表里。不是本窗口新词。\n- **If I Was ChatGPT / Observe, just observe**：联想出现 `ai trend if i was a`。厂商页自报最早帖在 2026-11-06。即使采信也已超过 72 小时；本轮未能在原平台亲眼核到两个独立复制，不入库。\n- **CapCut 浏览页 48h 窗口内的周年纪念模版和 2027 日历**：例如 Anniversary 14 Nov（ID 时间 2026-11-12T21:48:11Z，详情页 4,686 uses）和 15 nov anniversary（2026-11-14T02:23:58Z，209 uses），以及两个日历模版。详情页未见 AI 一图换人说明，当作普通剪辑/日历模版，不入库。\n- **Deck the Halls Christmas AI**：仍出现在 Remake today 榜上，但该页 HTML 与上一期相同，不能把名次变化当成新爆发。没有核到它的 T0 落在过去 72 小时内，不入库。\n- **Corolla 争议 AI 视频**：X 上有高互动葡语帖转述品牌声明“网上流传的视频是 AI 做的”。这是一条争议视频新闻，不是可被多账号照套的一图换人格式，不入库。\n- X 上大量“hecho / feito com IA”解说视频、联盟广告和模版宣传，没有统一可套格式。",
+  "watchlist_md": "- 今晚至未来 12 小时：葡萄牙 vs 丹麦（19:45 UTC）、海地 vs 美国（21:30 UTC，迈阿密）、巴甲米拉索尔 vs 米内罗竞技（21:30 UTC）、沙佩科恩塞 vs 瓦斯科（23:30 UTC）、墨超克雷塔罗 vs 蒙特雷（23:00 UTC）；牙买加 vs 墨西哥约 2026-11-15 01:00 UTC。关注庆祝动作和球迷片段，尤其葡语和西语侧；不要把开球前的占位比分当成完场。\n- 11/17 窗口需以正式赛历再核（上轮记录过阿根廷 vs 哥斯达黎加、日本 vs 巴拉圭、海地 vs 美国和牙买加 vs 墨西哥的次回合），本轮未再独立打开这些赛历。\n- 拉丁/urbano 曲库钩子只作旁证；本轮 Shazam 没看成，kworb 日榜页面与上一期相同，下一轮若榜单更新再用替代路径核是否已有一图换人格式，不得把原曲或日榜热度当成格式。",
+  "gaps_md": "- **TikTok**：消费端本轮没看成。打开 https://www.tiktok.com 跳转到 https://www.tiktok.com/status?status=7，页面文案为 “Page Not Available / This page is not available in your area.” 确认性搜索 https://www.tiktok.com/search?q=what%20AI%20is%20this 同样落到该页（约 16:18 UTC）。不是登录墙，也没有滑块。访问失败不等于没有复制。Creative Center 未登录可以看到部分国家 hashtag 预览的前 3 名（Last 7 days），歌曲榜和完整标签榜仍没有。\n- **Instagram**：仍无账号，故没看成。X 替代查询 `url:instagram.com/reel` 再次被 API 去掉斜线，结果为 0。\n- **Shazam**：美/墨/西/阿/哥/多米尼加/巴西 Top 200 页和 CSV 全部 HTTP 405（Varnish Not allowed, Error 54113）。不沿用上一期数字。\n- **KYM**：三次 HTTP 403，没看成。\n- **Reddit**：8 个子版均返回 0 条，记为空结果。\n- **YouTube**：只看了搜索标题，没看 Shorts 评论。\n- **工具链侧**（HF/Replicate/fal）本轮未复跑。\n- kworb 五个国家日榜 HTML 与上一期完全相同，可能是缓存，不能用来判断钩子热度变化。\n- 原发平台进不去时，0–12 小时只在 TikTok/Reels 上的新格式很容易漏。今晚尚未开球的比赛，庆祝类格式要到下一轮才可能出现。",
+  "sources": [
+    {
+      "name": "X 格式检索（英/西/葡问句、比赛日；以及国家趋势）",
+      "url": "https://x.com/explore"
+    },
+    {
+      "name": "AI Trend Club（带原帖日期的玩法清单）",
+      "url": "https://aitrendclub.com/trends"
+    },
+    {
+      "name": "Remake the Trend（玩法清单 / 今日排行）",
+      "url": "https://remakethetrend.com/trends"
+    },
+    {
+      "name": "CapCut 模版浏览页（en / es-es / pt-br 等）",
+      "url": "https://www.capcut.com/template"
+    },
+    {
+      "name": "kworb Spotify 国家日榜（播放次数榜，US/MX/BR/AR/ES）",
+      "url": "https://kworb.net/spotify/country/us_daily.html"
+    },
+    {
+      "name": "Google / YouTube 联想官方 diff（相对第 15 期）",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "BBC Sport 葡萄牙 vs 丹麦赛历",
+      "url": "https://www.bbc.com/sport/football/live/cmgj9jnvxx2qt"
+    },
+    {
+      "name": "美国足协 海地 vs 美国比赛页",
+      "url": "https://www.ussoccer.com/competitions/concacaf-nations-league-2026/matches/united-states-vs-haiti-11-14-26-tickets-live-score-match-hub-lineups-highlights"
+    },
+    {
+      "name": "NBC Sports 日本 vs 巴西赛果",
+      "url": "https://www.nbcsports.com/soccer/news/japan-beat-brazil-in-thriller-as-vinicius-scores-stunners-while-ancelotti-raphinha-sent-off"
+    }
+  ],
+  "keywords": []
+}

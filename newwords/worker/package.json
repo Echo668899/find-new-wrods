@@ -1,0 +1,11 @@
+{
+  "name": "newwords-worker",
+  "private": true,
+  "description": "Locked Wrangler for the existing newwords Worker. Deploy does not create Cloudflare resources.",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.163.0"
+  }
+}

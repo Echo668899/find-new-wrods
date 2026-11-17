@@ -1,0 +1,1112 @@
+{
+ "report_id": "2026-11-11-0600",
+ "created_at": "2026-11-11T06:00:00+08:00",
+ "title": "新词监控 第 9 期 · 2026-11-11 06:00（北京时间）",
+ "summary_md": "**本期（2026-11-11 第 9 期，距第 8 期约 6 小时）最值得马上做：**\n\n1. **Viggle Remake → recast video**（8.0，持续）— 仍是最强“结果交付”词。X 讨论几乎停住（11/10 截至 UTC 22 时 27 帖，近 6 小时约 +3），但托管 API 用量稳定增长：Replicate p-video-2-pro-replace 1,984→2,097 runs。HF 下载停在 115,384，赞 257→266（热榜第 11→12）。Google 联想本期多出顶层「recast video ai」。`recastvideo.ai` 复核仍为 RDAP 404。不要用 Viggle 做站名，尽快用通用词占位。\n2. **AI clothes extraction / outfit extractor**（7.5，持续）— X 仍 0 帖，Google 联想完整不变，三个优先域名复核仍为 RDAP 404。新变化：**MiniMax H3-Image 开源权重**（最多 16 张参考图编辑）可当新底层，但许可证排除美/欧/英/韩，面向欧美用户要走官方 API。\n3. **AI rotoscoping**（7.0，持续）— X 仍在谷底（11/10 截至 UTC 22 时 25 帖），「ai rotoscoping free / online free / tool」联想仍强，DDG 竞品与上期一致。不要用 Miracle/Higgsfield 品牌词。\n4. **MiniMax H3**（7.0，持续，爆发）— 11/10 截至 UTC 22 时已 6,113 帖（近 6 小时约 +2,580）。原因是北京 11/10 22:17 左右 **H3-Image 开源权重发布**，小时帖数在北京 00:00 见顶 812，之后回落到 217。仍不宜拿模型名做站，更适合当 recast / 换装 / 长视频的引擎；注意 H3 系列开源许可证排除美/欧/英/韩。\n5. **Cartoon in the hood AI video**（6.5，持续）— 11/10 截至 UTC 22 时 1,785 帖，仍低于 11/09 全天 2,597，继续降温；generator 联想仍为空。**不要用 Pokémon 做站名**。\n\n> 本期唯一 status「新」的词是 **MiniMax H3-Image（开源权重）**，评分 4.5（官方渠道齐全、许可证排除美/欧/英/韩、模型名不宜建站），**没有「新」且 ≥8 分的词**。其他变化：P-H3-Image 因官方开源被分流，降为 4.5、趋势改为下降；Seedream 5.5 讨论明显放缓（近 6 小时仅 +514），趋势改为爆发后回落；frutinovela 换口径后看是连续三天小幅上升，但竞品饱和，分数不变；VOCALOID7 日本发售日零点后几个小时都很安静（每小时 10–23 帖），日本白天尚未开始。",
+ "trends_md": "- **主线事件：MiniMax H3-Image 开源权重（北京 11/10 约 22:17）**。HF MiniMaxAI/MiniMax-H3-Image 进入模型热榜第 8（赞 338）；ComfyUI 首日支持；Reddit r/StableDiffusion 当日榜前列大多是它（发布帖、Comfy 权重、推荐尺寸、2 步 LoRA、提示词技能、与 Krea2 对比）。X「H3 Image」11/10 截至 UTC 22 时 5,666 帖，「MiniMax H3」6,113 帖，小时帖数在 UTC 16:00 见顶 812 后回落到 21:00 的 217。周边：NVIDIA Sana 团队的 Open-H3-Regenerate-2K-IC（把 768p H3 视频重生成为 2K/4K）、开源 ComfyUI 时间线编辑器 H3 Editor、VideoRebirth hyperflow-h3-flash（HF 下载 110,752）。**许可证排除美国、欧盟、英国、韩国**，且商用须标注“MiniMax-H3-Image”，这对面向欧美的付费站是硬约束。单列为新词（4.5），不建议用模型名建站。\n- **社区版 P-H3-Image 被官方分流**：X 11/10 截至 UTC 22 时 107 帖，HF 下载停在 782,946；X 上直接有人说“社区比 MiniMax 早一周做出了基于 H3 的图像模型”。降为 4.5，趋势改为下降。\n- **recast video 仍是“社交 0、API 稳增”**：Replicate replace 6 小时 +113 runs（2,097）；HF 下载停在 115,384，赞 +9。Google 联想多出顶层「recast video ai」。`recastvideo.ai` 复核仍为 RDAP 404。\n- **outfit extractor 仍无社交外溢**：X 7 日仍 0 帖；联想完整。H3-Image 多参考图编辑给了更强底层，但有地区许可限制。三个优先域名复核仍为 RDAP 404。\n- **Cartoon in the hood 继续降温**：11/10 截至 UTC 22 时 1,785 帖（近 6 小时约 +442），低于 11/09 全天 2,597。\n- **frutinovela 换口径**：上期查询无法复现，本期用「frutinovela OR frutinovelas」：11/08 245 → 11/09 386 → 11/10 截至 UTC 22 时 408，小幅连续上升。「fruit drama ai」联想有 generator / app，DDG 已有 fruitstory.io、storyshort.ai、media.io、medeo 等，竞争饱和，分数不变（5.5）。\n- **VOCALOID7 发售日早段安静**：日本零点（UTC 15:00）后每小时 10–23 帖，本期新闻检索未见报道；日本白天尚未开始，下期再判断。长尾「AI vocaloid alternative」等 7 日仅 3 帖。\n- **Chimera 新闻恢复更新**（北京 11/11 04:18），新增“AI 代理用 Chimera 做 116 秒唱歌视频”的故事；X 近 6 小时约 +53。cover video 近 6 小时仅 +1，脉冲结束。\n- **head swap 维持活跃**：11/10 截至 UTC 22 时 82 帖，已超过 11/09 全天 73。\n- **MOSS Image 生态在长**：Reddit 有 MOSS-Image-SFT 控制 LoRA、SolordZ_Realism_Moss_Base；HF Space MOSS-Image-Character-Catalog 进入 Spaces 热榜第 21；X 11/10 截至 UTC 22 时 121 帖。\n- **Seedream 5.5 明显放缓**：近 6 小时仅 +514（上一轮约 +1,169），趋势改为爆发后回落，仍是过热项。\n- **Replicate**：p-video-2-pro-replace 2,097（上期 1,984）、avatar 33,019（32,202）、H3 Lite 11,374（10,953）/ Highspeed 5,410（5,099）、seedance-2.5 370,101、gemini-omni-1.2-flash 1,587、p-video-2-pro-reference 177,305。Seedream 5.5 与 minimax/h3-image 页面仍 404。Explore 页仍以 FLUX、Wan 3、Seedance、Kling v3/v4、H3 等已有模型为主。\n- **Hugging Face**：模型热榜 idol 第一（赞 1,854）、MiniMax-H3-Image 新进第 8、Viggle-Remake 第 12、P-H3-Image-Comfy 第 16、SAM 3 第 19、hyperflow-h3-flash 第 24；其余多为 LLM（Kimi-K3.1-Pro、Qwen3.8、Ripple-65B 等）。Spaces：thea2026/image-to-video 赞 339→553 升到第 2（通用图生视频），wan777、bfs-best-face-swap、idol 仍在前列；若干 uncensored / NSFW Space 不纳入。\n- **Product Hunt**（Atom 源）：Lottie AI 仍在；新见 MoreFrame（双屏录制剪辑）、Gesso（让 ChatGPT/Claude 做设计后逐层编辑）、OpenVibe、Clive 等，均非媒体结果类新词。Lottie 讨论 11/10 截至 UTC 22 时 241 帖，近 6 小时仅 +20，已回落。\n- **GitHub Trending**：与上期相同的 12 个仓库（meta/astryx、anthropics/skills、agent-skills、mujoco 等），没有新的视频或图像生成仓库。\n- **X 新闻**：AI 视频方向主要是 80 年代动作警察混剪、黄仁勋恶搞、Hegseth 政治恶搞、胖猫出租车、Claude Fable 5.2 “梦境视频”、泰剧《Fool In Love》因 AI 特效被吐槽重剪、Disney × Adobe 定制生成模型、PAN 2 世界模型、Fish Audio Live 3。均为 IP/政治/肖像风险或通用模型能力，没有新的可建站特效词。",
+ "dropped_md": "- **MiniMax H3-Image 模型名站**：新词但不建议用模型名建站——官方 Hailuo / API 已开放，开源许可证排除美/欧/英/韩，且须标注品牌。只当底层引擎用。\n- **P-H3-Image**：官方 H3-Image 开源后社区版被分流，降为 4.5，继续保留观察但不建站。\n- **Seedream 5.5**：继续过热，讨论已放缓（近 6 小时 +514）。官方渠道齐全，分数 3.5。\n- **Open-H3-Regenerate-2K-IC / ReCaVSR（视频超分）**：开发者向，视频超分是红海，不单列。\n- **H3 Editor（ComfyUI 时间线编辑器）**：开源开发者工具，不是消费搜索词。\n- **Full Friends Episode（H3 整集重制）**：Reddit 热帖，但属于版权 IP 重制，不能做工具站词。\n- **Krea2 / Z-Image Turbo**：Reddit 对比帖里出现，均为已有模型，不是本期新词。\n- **Lottie AI / text to lottie**：热度回落（近 6 小时 +20），官方产品与现成工具已在，不建词。\n- **Claude Fable 5.2“梦境视频” / AI 贝多芬奏鸣曲**：Claude 原生能力，不符合筛选。\n- **Fish Audio Live 3 / Nuance Labs Emma**：实时语音/数字人 API，记为 photo-to-live-avatar 的额外竞争，不单列。\n- **PAN 2（MBZUAI 世界模型）/ NVIDIA GR00T 2 / Alpamayo 2 Edge**：机器人/自动驾驶方向，不是媒体结果站。\n- **80s action cops / 黄仁勋 / Hegseth 恶搞视频 / 女明星深伪**：IP、肖像、政治风险高，排除。\n- **胖猫出租车 AI 短片**：一次性梗，不是工具词。\n- **Pinterest 拼贴“how Pinterest sees me”**：平台内玩法，不需要生成工具。\n- **Seedance 2.5**：7 日约 4.51 万帖，套壳站泛滥，继续红海。\n- **GPT Image 2.6 / ChatGPT GIF、Gemini Omni 1.2 Flash、ChatGPT 空房间**：通用聊天 AI 原生能力，继续回落。\n- **AI attractiveness test / mytype 克隆站**：社交几乎没有或持续回落，不建议跟风。\n- **LTX-2.5、Wan 3.0、FLUX 3、Kling 4、Lyria 3.5**：更早发布，不是本期新词。\n- **AI singing voicebank / AI vocaloid alternative**：7 日仅 3 帖，不要用 VOCALOID 做站名。",
+ "watchlist_md": "- **MiniMax H3-Image 衍生的通用编辑词**：开源后若出现“multi reference edit / 16 image reference / product photo 4K”等通用搜索词且竞品弱，再评估；注意地区许可。下期看 Replicate/fal 是否上架官方托管版（本期 Replicate 仍 404）。\n- **recast video**：继续看 p-video-2-pro-replace runs（本期 2,097）和 HF 下载是否继续增长。`recastvideo.ai` 复核仍为 RDAP 404。\n- **outfit extractor**：Google 联想仍在，X/Reddit 仍无外溢；看是否有 H3-Image 抠衣工作流帖出现，以及专用站是否出现。域名 outfitextractor.com/.ai 复核仍为 RDAP 404。\n- **VOCALOID7（11/11 发售日）**：日本白天（UTC 00:00 起）才是关键窗口，下期看完整发售日是否出现高峰和“AI singing voicebank”长尾。\n- **MiniMax H3 讨论回落速度**：小时帖数从 812 回落到 217，下期看 11/10 完整日总数和 11/11 是否回到千帖级。\n- **frutinovela**：新口径下连续三天小幅上升，看 11/10 完整日是否站稳 400+。\n- **Chimera vocal synth**：新闻恢复更新，继续看是否出现“一键翻唱视频/多声部模板”需求。covervideo.ai 复核仍为 RDAP 404。\n- **MOSS Image**：控制 LoRA 和角色目录 Space 出现，看是否形成“角色一致性”类消费词。\n- **head swap**：11/10 已超过 11/09 全天，看是否继续升温。\n- **Cartoon in the hood**：generator 联想若出现再提高优先级。\n- **Frameboy / World Labs Atlas**：热度维持低位，API 是否开放仍未知。\n- **idol image-to-3D splat**：HF 热度第一但下载持平，专门站很多。\n- **Nuance Labs Emma / Fish Audio Live 3**：若出现可搜索的通用词（而不是品牌名）且竞品不够垂直，再评估。",
+ "gaps_md": "- **X 查询口径**：前几期没有保存部分查询原文。本期逐一核对 11/09 完整日：Viggle、MiniMax H3、AI rotoscoping、cartoon in the hood（2,597 vs 2,593）、head swap（73 vs 71）、VOCALOID7、P-H3-Image、Pika H3、Spotify、cover video、MOSS、Atmee、LTX、Seedance、Seedream、Forsaken 与上期一致或只差重计误差，可算“近 6 小时增量”。frutinovela、mytype、Gemini Omni、ChatGPT 空房间、GPT Image/GIF、AI attractiveness test 无法复现上期数值，本期改用新口径，只在新口径内比较，并在词条中标注“口径变更”。\n- **Reddit**：本期 r/StableDiffusion 日榜 RSS 抓取成功（25 条）；r/aivideo 返回为空；r/ChatGPT、r/singularity、r/artificial 未覆盖。\n- **Hugging Face API**：继续使用 `sort=trendingScore`（模型、Spaces 各前 25），并对跟踪模型/Space 单独拉了 likes/downloads。\n- **TikTok / YouTube / Instagram**：没有直接接口，只通过 X 新闻摘要间接覆盖。\n- **Discord**：跳过。\n- **Google Trends**：未抓取，趋势用 X 帖数 + Google 联想代替；搜索量标为待验证。\n- **Toolify / There's An AI For That / fal.ai**：fal 为 JS 渲染；目录站本期未抓。MiniMax H3-Image 的官方 API 定价未核实（待验证）。\n- **GitHub trending**：页面成功解析到 12 个仓库，与上期相同。\n- **Product Hunt**：改用 Atom 源 `https://www.producthunt.com/feed?category=undefined`。\n- **Steam / Roblox / Poki**：只通过 X 热搜/新闻覆盖，没有消费级媒体特效词。\n- **域名**：本期复核 recastvideo.ai、outfitextractor.com/.ai、outfitextract.com、covervideo.ai（均 RDAP 404），rotoscopeai.com（已注册），以及 h3image.com、minimaxh3image.com（已注册）、h3image.ai、h3imageai.com（RDAP 404）。其它域名沿用此前结果。“RDAP 404”也建议下单前在注册商复核。\n- **竞争情况**：用 DuckDuckGo 前 10 代替 Google 前 10；「outfit extractor」「cartoon in the hood generator」「minimax h3 image」本期返回为空，属于 DDG 波动，不能解释为竞品消失。\n- **时间间隔**：本轮在第 8 期约 6 小时后取样（UTC 11/10 约 22:08，北京 11/11 06:08）。11/10 为不完整 UTC 日，标记为 11/10_22h，不可外推。VOCALOID7 日本发售日才进入约 7 小时，且日本白天尚未开始。报告 created_at 记为 2026-11-11T06:00:00+08:00。",
+ "sources": [
+  {
+   "name": "X 热门/新闻（search_news）+ 7 日帖数（counts_recent，含小时粒度）+ 全球/美国趋势",
+   "url": "https://x.com/explore"
+  },
+  {
+   "name": "Hugging Face Trending Spaces",
+   "url": "https://huggingface.co/spaces?sort=trending"
+  },
+  {
+   "name": "Hugging Face Trending Models",
+   "url": "https://huggingface.co/models?sort=trending"
+  },
+  {
+   "name": "Hugging Face API（sort=trendingScore）",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=15&direction=-1"
+  },
+  {
+   "name": "Reddit r/aivideo 周榜（第 1 期 RSS 缓存，本期直播超时）",
+   "url": "https://www.reddit.com/r/aivideo/top/?t=week"
+  },
+  {
+   "name": "Product Hunt Atom 源",
+   "url": "https://www.producthunt.com/feed?category=undefined"
+  },
+  {
+   "name": "Replicate Explore + 模型页 runs",
+   "url": "https://replicate.com/explore"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending"
+  },
+  {
+   "name": "雅马哈 VOCALOID7 新闻稿",
+   "url": "https://www.yamaha.com/ja/news_release/2026/26102302/"
+  },
+  {
+   "name": "字节 Seedream 5.5 官方博客",
+   "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5"
+  },
+  {
+   "name": "Google 搜索联想（suggestqueries）",
+   "url": "https://www.google.com/"
+  },
+  {
+   "name": "DuckDuckGo SERP 前 10",
+   "url": "https://duckduckgo.com/"
+  },
+  {
+   "name": "RDAP（本期复核优先域名）",
+   "url": "https://rdap.org/"
+  },
+  {
+   "name": "Chimera 相关 X 新闻摘要",
+   "url": "https://x.com/i/trending/2119913272682164627"
+  },
+  {
+   "name": "MiniMax H3 Image 相关 X 新闻摘要",
+   "url": "https://x.com/i/trending/2119857413717450904"
+  },
+  {
+   "name": "Seedream 5.5 相关 X 新闻摘要",
+   "url": "https://x.com/i/trending/2119765260840370434"
+  },
+  {
+   "name": "Nuance Labs Emma 相关 X 新闻摘要",
+   "url": "https://x.com/i/trending/2119860385872330834"
+  },
+  {
+   "name": "MiniMax-H3-Image（Hugging Face 官方仓库与许可证）",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
+   "name": "Reddit r/StableDiffusion 日榜（本期 RSS 直连成功）",
+   "url": "https://www.reddit.com/r/StableDiffusion/top/?t=day"
+  },
+  {
+   "name": "VideoRebirthAI hyperflow-h3-flash",
+   "url": "https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash"
+  }
+ ],
+ "keywords": [
+  {
+   "keyword": "Viggle Remake",
+   "cn_explain": "Viggle 开源的视频“重选角/整段重绘”模型：上传一段视频+一张角色图，把视频里的人物换成新角色，保留动作和镜头",
+   "category": "视频",
+   "tool_type": "视频角色替换/视频编辑",
+   "source_platform": "Reddit r/StableDiffusion + Hugging Face",
+   "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1xnui9u/viggle_remake_open_weights_for_recasting_editing/",
+   "extra_links": [
+    "https://huggingface.co/Viggle/Viggle-Remake",
+    "https://www.reddit.com/r/StableDiffusion/comments/1xqbon5/viggle_remake_is_a_beast/",
+    "https://replicate.com/prunaai/p-video-2-pro-replace"
+   ],
+   "first_seen": "2026-10-22（HF 模型创建）",
+   "breakout_date": "2026-11-04",
+   "trend": "爆发后回落",
+   "trend_evidence": "X「Viggle Remake」11/09 完整 UTC 日 42 帖，11/10_22h 27 帖，近 6 小时约 +3；7 日 3,944 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。精确短语「recast video」7 日仍 0 帖。HF Viggle-Remake 下载停在 115,384（上期刚从 97,356 恢复后持平），赞 257→266，热榜第 11→第 12。Replicate prunaai/p-video-2-pro-replace 1,984→2,097 runs（+113，6 小时增量与前几期相当）。Google 联想本期多出顶层「recast video ai」，另有 ai free / free / higgsfield recast video。",
+   "user_need": "把自己/指定角色替换进一段现成视频（梗视频、电影片段、舞蹈）",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "聊天 AI 无法对上传视频做逐帧角色替换，需要视频到视频模型和 GPU",
+   "underlying_models": "Viggle/Viggle-Remake（开源权重，video-to-video）；MiniMax H3 character swap；Replicate prunaai/p-video-2-pro-replace（托管人物替换 API，1–120 秒，保留镜头/动作/音轨，1,803 runs，上期 1,707）",
+   "cost_estimate": "自部署 GPU，单次成本待验证",
+   "competition": "本期 DDG「recast video」前 10：recast.studio、recastai.app、recastvideo.com、pollo.ai、recast.run（与上期基本一致）。仍建议用通用词抢占，而不是品牌名。",
+   "domain_taken": "本期复核 recastvideo.ai 仍为未注册(RDAP 404)；viggleremake.com、recastai.app 此前已注册，未复查。下单前请在注册商确认。",
+   "pay_potential": "高",
+   "pricing_model": "积分制：按秒计费，高清/去水印付费",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "recastvideo.ai",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "viggleremake.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "viggleremake.com",
+     "status": "已注册"
+    },
+    {
+     "domain": "recastai.app",
+     "status": "已注册"
+    }
+   ],
+   "score": 8.0,
+   "risks": "肖像权/换脸滥用；品牌词“Viggle”商标风险，建议主推通用词 recast video；X 热度接近归零，HF 下载已连续三期停在 97,356；通用词 SERP 与 Higgsfield Recast 仍在抢占，且 recastvid.com 本期进入前 10，窗口是“要抢 SEO”而不是“没人做”",
+   "regions": "全球；拉美/东南亚梗视频需求大（待验证）",
+   "status": "持续"
+  },
+  {
+   "keyword": "AI clothes extraction / outfit extractor",
+   "cn_explain": "从人物照片/视频帧里把衣服单独“抠出”成平铺商品图（MiniMax H3 单帧编辑新玩法）",
+   "category": "图片",
+   "tool_type": "图片编辑/电商",
+   "source_platform": "Reddit r/StableDiffusion",
+   "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1xoovpo/clothes_extraction_with_minimax_h3_single_frame/",
+   "extra_links": [
+    "https://www.reddit.com/r/StableDiffusion/comments/1xqx0jt/minimax_h3_single_frame_edit_excels_at_character/"
+   ],
+   "first_seen": "2026-11-05",
+   "breakout_date": "2026-11-05",
+   "trend": "刚冒头",
+   "trend_evidence": "X「clothes extraction / outfit extractor / extract clothes」7 日仍 0 帖，11/10_22h 仍为 0。Google 联想不变且完整（outfit extractor ai/free/online、qwen edit、comfyui、lora、extract outfit from image）。搜索量（Google Trends）待验证。新变化：MiniMax H3-Image 于 UTC 11/10 约 14:17（北京 22:17）放出开源权重，支持最多 16 张参考图的编辑，可作为抠衣/平铺图的新底层，但其许可证排除美国、欧盟、英国、韩国（见风险）。",
+   "user_need": "电商卖家/穿搭博主想从模特图得到干净的平铺服装图或换装素材",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "ChatGPT 图片编辑可做粗略版本，但服装细节/一致性不稳定",
+   "underlying_models": "MiniMax H3-Image（官方 API；开源权重有地区限制）；MiniMax H3 single-frame edit；Qwen-Image-Edit；Fibo 2.0 editing",
+   "cost_estimate": "待验证",
+   "competition": "本期 DDG「outfit extractor」返回为空（上期有 rendar.ai、snapmydesign 等，属波动，不代表竞品消失）。「outfit extract」前 10：snapmydesign.com、koozee.ai、rendar.ai、lookfashion.ai、Hugging Face、GitHub、seaart.ai、krea.ai。相邻时尚 AI 仍在增加，但还没有“抽出单件衣服”的专用站。",
+   "domain_taken": "本期复核 outfitextractor.com、outfitextractor.ai、outfitextract.com 仍为未注册(RDAP 404)。outfitextract.ai、clothesextract.com 此前为 RDAP 未查到，未复查。下单前请在注册商确认。",
+   "pay_potential": "高",
+   "pricing_model": "按张付费 / 电商批量订阅",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "outfitextractor.com",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "outfitextractor.ai",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "outfitextract.com",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "outfitextract.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "clothesextract.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 7.5,
+   "risks": "品牌服装版权图；X 上仍完全无讨论，搜索量绝对值待 Google Trends 验证；联想词里已有 Qwen/Comfy 教程向，免费开源工作流可能分流付费意愿；若用 H3-Image 开源权重自部署，许可证排除美/欧/英/韩并要求界面标注“MiniMax-H3-Image”，面向这些市场应走官方 API 或其它模型",
+   "regions": "美国/东南亚电商",
+   "status": "持续"
+  },
+  {
+   "keyword": "AI rotoscoping（Higgsfield Miracle）",
+   "cn_explain": "AI 自动抠像/分层：Higgsfield 11/07 发布 Miracle，把视频矢量化成可编辑图层（改发色、去面具）",
+   "category": "视频",
+   "tool_type": "视频抠像/特效",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2118924729822195857",
+   "extra_links": [
+    "https://huggingface.co/facebook/sam3"
+   ],
+   "first_seen": "2026-11-06",
+   "breakout_date": "2026-11-07",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 11/09 全天 35 帖，11/10_22h 25 帖，近 6 小时约 +9；7 日 1,725 帖，峰值仍在 11/07（1,049）（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。Google「ai rotoscoping free / online free / tool / comfyui」联想仍强。HF facebook/sam3 下载仍停在 2,025,490，赞 6,231→6,254。",
+   "user_need": "创作者想一键把人物/物体从视频中分离、替换背景或局部改色",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需要逐帧分割与视频处理，聊天 AI 不支持",
+   "underlying_models": "Meta SAM 3（开源，HF 下载约 198 万）、Robust Video Matting（Replicate）",
+   "cost_estimate": "SAM 3 自部署；成本待验证",
+   "competition": "本期 DDG「ai rotoscoping」前 10：vidio.ai、borisfx.com、twoshot.app、beeble.ai、fuzzpuppy.com、slapshot.ai、webgpu.in、GitHub 等，与上期基本一致。搜索意向明确，专用站仍有空间，但已有可见竞争。",
+   "domain_taken": "优先推荐域名本期未新查；沿用上期：airotoscope.com、autoroto.ai 为 RDAP 未查到，rotoscopeai.com 已注册。下单前请在注册商确认。",
+   "pay_potential": "高",
+   "pricing_model": "按分钟导出/订阅",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "airotoscope.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "autoroto.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "rotoscopeai.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 7.0,
+   "risks": "Miracle 是 Higgsfield 私有产品（品牌词勿用）；视频处理成本高",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "MiniMax H3",
+   "cn_explain": "MiniMax 开源视频模型 H3（带同步音轨），社区用它做角色替换、单帧编辑、长视频生成",
+   "category": "视频",
+   "tool_type": "视频生成",
+   "source_platform": "Reddit r/StableDiffusion",
+   "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1xoxg7n/minimax_h3_character_swap_is/",
+   "extra_links": [
+    "https://www.reddit.com/r/StableDiffusion/comments/1xly4rw/my_h3_settings_that_generate_15_second_videos_in/",
+    "https://www.reddit.com/r/StableDiffusion/comments/1xqfcjs/ultima_online_6_min_made_with_minimax_h3_in/",
+    "https://huggingface.co/spaces/wank3r/minimax-h3",
+    "https://replicate.com/minimax/h3-lite",
+    "https://x.com/i/trending/2119857413717450904",
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+    "https://www.reddit.com/r/StableDiffusion/comments/1xsoblk/minimax_h3image_released/"
+   ],
+   "first_seen": "2026-09-13（HF Space 创建）",
+   "breakout_date": "2026-11 第一周（Reddit 周榜多帖）",
+   "trend": "爆发",
+   "trend_evidence": "X「MiniMax H3」11/09 完整 UTC 日 1,520 帖；11/10_22h 已 6,113 帖，近 6 小时约 +2,580；7 日 12,976 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。小时数据在 UTC 16:00（北京 00:00）见顶 812 帖，之后 579 / 433 / 413 / 292 / 217，已在回落。驱动是 **H3-Image 开源权重**：MiniMax 于 UTC 约 14:17（北京 22:17）发布 MiniMaxAI/MiniMax-H3-Image（HF 模型热榜第 8，赞 338），ComfyUI 首日支持；「H3 Image」查询 11/10_22h 5,666 帖（11/09 609）。周边还有 NVIDIA Sana 团队的 Open-H3-Regenerate-2K-IC（把 768p H3 视频重生成为 1080p/2K/4K）和开源 ComfyUI 时间线编辑器 H3 Editor。Replicate H3 Lite 10,953→11,374，Highspeed 5,099→5,410；HF VideoRebirthAI/hyperflow-h3-flash 下载 110,752（热榜第 24）；Space wank3r/minimax-h3 赞 344→346。",
+   "user_need": "在线用 H3 生成带声音的视频，不想本地部署",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需要专用视频模型和 GPU；聊天 AI 不提供 H3",
+   "underlying_models": "MiniMax H3（开源）；Pika H3 Flex 基于 H3 蒸馏；Replicate minimax/h3-lite、minimax/h3-highspeed",
+   "cost_estimate": "本地 24GB GPU 可跑（Reddit 案例）；云端成本待验证",
+   "competition": "仍主要是官方 Hailuo / MiniMax 和托管 API，不是一个独立的消费搜索词。H3-Image 开源后社区生态（ComfyUI、LoRA、提示词技能）爆发，但都是开发者向。不宜用模型名做站，适合当 recast / 换装 / 长视频的引擎。",
+   "domain_taken": "minimaxh3.com / minimaxh3.ai / minimaxh3video.com 均已注册",
+   "pay_potential": "中",
+   "pricing_model": "订阅+积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "h3swap.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "minimaxh3.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 7.0,
+   "risks": "模型词站点已被抢注；品牌商标；官方有自家平台；H3 与 H3-Image 开源许可证均排除美国、欧盟、英国、韩国，面向这些市场自部署不被授权",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "Pokémon in the hood（cartoon in the hood AI video）",
+   "cn_explain": "把卡通角色放进写实街头/“兜帽区”场景的 AI 恶搞视频，FilCrow 用 Higgsfield 于 11/06 带火",
+   "category": "视频",
+   "tool_type": "视频生成/梗模板",
+   "source_platform": "X 热门 + Reddit r/aivideo",
+   "source_url": "https://x.com/i/trending/2118819102265688297",
+   "extra_links": [
+    "https://www.reddit.com/r/aivideo/comments/1xqearz/pokémon_in_the_hood/"
+   ],
+   "first_seen": "2026-11-06",
+   "breakout_date": "2026-11-06",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 11/09 全天重计 2,597 帖（上期记 2,593），11/10_22h 1,785 帖，近 6 小时约 +442；7 日 18,283 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。11/10 节奏仍低于 11/09 全天和 11/08 的 3,177，继续降温。Google「cartoon in the hood generator」联想仍为空。",
+   "user_need": "想做同款“卡通角色+写实街头”恶搞视频",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "聊天 AI 不能直接产出这类写实视频；需视频模型+模板化提示词",
+   "underlying_models": "Higgsfield（原作）、Seedance 2.5 / MiniMax H3 / Kling 3 + 模板提示词",
+   "cost_estimate": "视频 API 约 $0.01-0.07/秒（Pika H3 Flex / Gemini Omni 公布价）",
+   "competition": "本期 DDG「cartoon in the hood generator」返回为空（上期为通用卡通生成站 nidhogg.ai、neolemon.com、cartoongenerator.ai 等，属波动）。仍无该梗的专用模板站。不要用 Pokémon 做站名。",
+   "domain_taken": "cartooninthehood.com、hoodcartoon.ai RDAP 未查到",
+   "pay_potential": "中",
+   "pricing_model": "按条付费模板",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "cartooninthehood.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "hoodcartoon.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 6.5,
+   "risks": "Pokémon 商标/IP 风险极高——不要用 Pokémon 词建站，用通用“cartoon/anime in the hood”；涉毒涉暴内容平台政策风险；梗生命周期短",
+   "regions": "美国为主",
+   "status": "持续"
+  },
+  {
+   "keyword": "head swap AI（BFS / Qwen-Image 2.1）",
+   "cn_explain": "照片换头：保留姿势/光线/服装，只换整颗头（HF 上 BFS LoRA 基于 Qwen-Image-2.1）",
+   "category": "图片",
+   "tool_type": "换脸/换头",
+   "source_platform": "Hugging Face Trending Spaces",
+   "source_url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+   "extra_links": [
+    "https://huggingface.co/spaces/keysersoze/Faceswap-Headswap"
+   ],
+   "first_seen": "2026-09-27",
+   "breakout_date": "2026-10/11（HF 趋势榜）",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 73 帖（上期记 71），11/10_22h 82 帖（已超过 11/09 全天），近 6 小时约 +14；7 日 251 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。Google「head swap ai free / no sign up / video / online / photo」联想完整。HF Space hugging-apps/bfs-best-face-swap 赞 867→870，Spaces 热榜第 7。",
+   "user_need": "把自己的头换到别的照片/海报/角色上",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "ChatGPT 对真人换脸有政策限制且保真度差",
+   "underlying_models": "BFS LoRA + Qwen-Image-2.1（开源）",
+   "cost_estimate": "待验证",
+   "competition": "本期 DDG「head swap ai」前 10：headswap.app、peerlist.io、YouTube、picwish.com、aiease.ai、facecam.ai、live3d.io。换头赛道本身已有不少工具和开源 Space，机会在更干净、可商用的路径，而不是再做一个同质站。",
+   "domain_taken": "headswap.ai、swaphead.ai RDAP 未查到；headswapai.com 已注册",
+   "pay_potential": "中",
+   "pricing_model": "按张/订阅",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "headswap.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "swaphead.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "headswapai.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 6.5,
+   "risks": "换脸滥用/NSFW 高风险，需严格审核与真人授权；支付通道风控",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "photo to live avatar（Atmee v2 / Meta Muse Realtime Avatar）",
+   "cn_explain": "一张照片+10 秒音频生成可实时对话、全身动作的数字人（Atmee v2 本周发布；Meta Muse 同期上 Product Hunt）",
+   "category": "视频",
+   "tool_type": "数字人/口型同步",
+   "source_platform": "X 热门 + Product Hunt",
+   "source_url": "https://x.com/i/trending/2118145172592898133",
+   "extra_links": [
+    "https://www.producthunt.com/",
+    "https://www.atmee.ai",
+    "https://replicate.com/prunaai/p-video-2-pro-avatar",
+    "https://x.com/i/trending/2119860385872330834"
+   ],
+   "first_seen": "2026-11-04",
+   "breakout_date": "2026-11-04",
+   "trend": "爆发后回落",
+   "trend_evidence": "X Atmee 11/09 全天 3 帖，11/10_22h 5 帖；7 日 531 帖，讨论基本结束。Replicate p-video-2-pro-avatar 32,202→33,019 runs，后端用量仍在缓慢增加。Nuance Labs Emma 新闻摘要更新到北京时间 11/11 05:58（beta API 已开放），另有 Fish Audio Live 3 全双工语音，都是实时对话数字人/语音方向的额外竞争。",
+   "user_need": "让照片里的人开口说话、做实时视频陪聊/教学",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需要视频数字人模型",
+   "underlying_models": "Atmee v2 API、Replicate lipsync 合集、prunaai/p-video-2-pro-avatar",
+   "cost_estimate": "待验证",
+   "competition": "品牌站和 Muse / Emma / 各类 talking-avatar 工具都在，通用「photo to live avatar」已不新。",
+   "domain_taken": "phototalk.ai RDAP 未查到；talkingphoto.ai、liveavatar.ai 已注册",
+   "pay_potential": "高",
+   "pricing_model": "按分钟/订阅",
+   "difficulty": "高",
+   "domains": [
+    {
+     "domain": "phototalk.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "atmeeai.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 5.5,
+   "risks": "诈骗/冒充滥用；大厂竞争",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "idol（image to 3D Gaussian splat）",
+   "cn_explain": "speridlabs 开源 idol：一张图生成 3D 高斯泼溅物体",
+   "category": "其他",
+   "tool_type": "图生 3D",
+   "source_platform": "Hugging Face Trending",
+   "source_url": "https://huggingface.co/speridlabs/idol",
+   "extra_links": [
+    "https://huggingface.co/spaces/speridlabs/idol"
+   ],
+   "first_seen": "2026-10-28",
+   "breakout_date": "2026-11 第一周",
+   "trend": "平稳",
+   "trend_evidence": "HF speridlabs/idol 仍居模型热榜第一，赞 1,784→1,854，下载停在 26,470（上期刚恢复后持平）；Space 赞 238 持平。Google「image to 3d splat / gaussian splatting」联想仍在。",
+   "user_need": "把产品/角色照片变成可旋转 3D 模型",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "聊天 AI 不输出 3D 资产",
+   "underlying_models": "speridlabs/idol（Apache-2.0，可商用）",
+   "cost_estimate": "待验证",
+   "competition": "本期 DDG「image to 3d splat」仍是一排专用站（splatdrop.com、photosplat3d.com、3daistudio.com、splatlabs.ai、cinevva、triposplat.com/.app、spaitial.ai）。专门站仍然很多。",
+   "domain_taken": "image2splat.com、splatfromphoto.com RDAP 未查到",
+   "pay_potential": "中",
+   "pricing_model": "按次/导出 GLB 付费",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "image2splat.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "splatfromphoto.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "photo3dsplat.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 5.5,
+   "risks": "“idol”词义泛，SEO 要用 image to 3D splat；专门站仍然很多（本期 DDG 再次列出一排专用站），窗口收窄；需求量待 Google Trends 验证；点赞在涨但下载已连续两期停在 24,747",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "AI fruit drama（frutinovela）",
+   "cn_explain": "拟人水果肥皂剧 AI 短剧（香蕉偷听、西瓜豪门恩怨），接续 TikTok“Fruit Love Island”",
+   "category": "视频",
+   "tool_type": "视频生成/短剧模板",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2118787807909224643",
+   "extra_links": [],
+   "first_seen": "2026 年内（Fruit Love Island 先火）",
+   "breakout_date": "2026-11-06（新一波）",
+   "trend": "上升",
+   "trend_evidence": "**口径变更**：上期查询无法复现（上期 11/09 记 174），本期改用「frutinovela OR frutinovelas」，只在同一口径内比较：11/08 245、11/09 386、11/10_22h 408（已超过 11/09 全天）；7 日 1,851 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。连续三天上升，幅度不大。Google「fruit drama ai」联想含 generator / app / tiktok / slop。",
+   "user_need": "想做水果短剧系列视频涨粉",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需要角色一致的连续视频生成",
+   "underlying_models": "Seedance 2.5、MiniMax H3、Kling 3",
+   "cost_estimate": "视频 API 约 $0.01-0.07/秒（公布价）",
+   "competition": "本期 DDG「fruit drama ai」前 10：media.io、medeo.app、fruitstory.io、TikTok、dreamina.capcut.com、storyshort.ai、noviai.ai、donatello.studio、fuzana.com，已有专用/半专用模板站。fruitdrama.ai 此前已注册。讨论回升但竞争已饱和，分数不上调。",
+   "domain_taken": "fruitdrama.ai、fruitdramaai.com、aifruitdrama.com、frutinovela.com 均已注册",
+   "pay_potential": "中",
+   "pricing_model": "短剧模板按集付费",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "fruitsoap.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "fruitdrama.ai",
+     "status": "已注册"
+    }
+   ],
+   "score": 5.5,
+   "risks": "竞争已饱和；“AI slop”舆论反弹",
+   "regions": "拉美（西语 frutinovela）机会大",
+   "status": "持续"
+  },
+  {
+   "keyword": "Pika H3 Flex",
+   "cn_explain": "Pika 10/29 发布的开源视频模型，7 秒生成 15 秒带音轨视频，API $0.01/秒",
+   "category": "视频",
+   "tool_type": "视频生成",
+   "source_platform": "X 热门 + Hugging Face",
+   "source_url": "https://x.com/i/trending/2117288229946654768",
+   "extra_links": [
+    "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+   ],
+   "first_seen": "2026-10-29",
+   "breakout_date": "2026-11-03",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 11/09 全天 75 帖（上期记 77），11/10_22h 67 帖，近 6 小时约 +5；7 日 2,078 帖，远低于 11/04–11/08 高峰。HF Pika-H3-Flex 下载仍为 1,083，赞 530→534，Space 赞 97→98。",
+   "user_need": "便宜快速生成带声音的短视频",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需视频模型",
+   "underlying_models": "Pika-Labs/Pika-H3-Flex（开源，基于 MiniMax H3）",
+   "cost_estimate": "$0.01/秒（X 摘要转述官方价）",
+   "competition": "官方渠道和模型名套壳为主，不适合以 Pika/H3 Flex 做站名。",
+   "domain_taken": "pikah3.com、pikah3flex.com 已注册；h3flex.ai、pikaflex.ai RDAP 未查到",
+   "pay_potential": "中",
+   "pricing_model": "积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "h3flex.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "pikaflex.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 5.5,
+   "risks": "Pika 商标；热度回落快；更适合作为低成本后端而非站名",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "AI song remix（Spotify AI Remix）",
+   "cn_explain": "Spotify 宣布 2027Q1 推付费 AI 混音/换声功能（$4-5/月），引爆“AI remix 歌曲”讨论",
+   "category": "音频",
+   "tool_type": "音乐混音/换声",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2118852539118694745",
+   "extra_links": [
+    "https://x.com/i/trending/2117308545997644210",
+    "https://x.com/i/trending/2119564992215175655",
+    "https://x.com/i/trending/2118852539118694745"
+   ],
+   "first_seen": "2026-11-02",
+   "breakout_date": "2026-11-08（二次发酵）",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 44 帖，11/10_22h 9 帖，近 6 小时约 +1；7 日 142 帖。讨论量不大。",
+   "user_need": "把一首歌改成别的曲风/换成别人声音",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需音频分轨与生成模型",
+   "underlying_models": "ElevenLabs Music（Replicate）、Demucs 分轨、Replicate sing-with-voices 合集",
+   "cost_estimate": "待验证",
+   "competition": "官方 Spotify 方案若上线会占住正版路径；非官方翻唱/remix 工具已经很多，版权风险高。",
+   "domain_taken": "songremixai.com、voiceremix.ai、airemixer.ai RDAP 未查到",
+   "pay_potential": "中",
+   "pricing_model": "订阅",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "songremixai.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "voiceremix.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "airemixer.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 5.5,
+   "risks": "音乐版权/声音克隆风险高；Spotify 功能 2027 才上线",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "Chimera vocal synth",
+   "cn_explain": "浏览器里的人声物理合成器，拖动舌头/下巴让 3D 头唱歌，开源",
+   "category": "音频",
+   "tool_type": "人声合成",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2119198390273675305",
+   "extra_links": [
+    "https://chimera-vocal-synth.vercel.app",
+    "https://x.com/i/trending/2119198390273675305",
+    "https://x.com/i/trending/2119913272682164627"
+   ],
+   "first_seen": "2026-11-07",
+   "breakout_date": "2026-11-08",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 355 帖（本期口径，上期记 340，可能有轻微口径差异），11/10_22h 152 帖，近 6 小时约 +53；7 日 866 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。新闻摘要恢复更新（最新为北京时间 11/11 04:18），新增“AI 代理用 Chimera 做出 116 秒唱歌视频”的故事。「cover video」(AI OR chimera OR singing) 11/10_22h 75 帖，近 6 小时仅 +1，上午的脉冲已结束。Google「cover video ai」联想仍同时包含 music cover 和 YouTube 封面图。",
+   "user_need": "做搞笑翻唱/梗视频",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "专用合成器",
+   "underlying_models": "开源 Rust/WASM 项目",
+   "cost_estimate": "接近零（浏览器端）",
+   "competition": "官方是免费开源 WASM，付费潜力仍低，除非做出明确的一键翻唱视频模板。本期 DDG「cover video ai」偏剪辑/封面（flexclip、kapwing、recapo.ai、covers.ai、veed、vivideo.ai、capcut、storycut、invideo），不是空白赛道。covervideo.ai 本期复核仍为未注册(RDAP 404)。",
+   "domain_taken": "本期复核 covervideo.ai 仍为未注册(RDAP 404)。chimeravoice.com 上期为 RDAP 未查到，未复查。下单前请在注册商确认。不要用官方项目名做唯一站名。",
+   "pay_potential": "低",
+   "pricing_model": "广告/导出视频付费",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "chimeravoice.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "covervideo.ai",
+     "status": "未注册(RDAP 404)"
+    }
+   ],
+   "score": 5.5,
+   "risks": "官方免费开源（浏览器端），付费难；更适合做“一键导出翻唱视频/模板”而非再做一个合成器；cover video 搜索意向存在但 SERP 已有 covers.ai / capcut / suno / recapo 等，上午相关 X 讨论有跳升但意图仍杂，尚未形成可建站的明确需求爆发",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "P-H3-Image",
+   "cn_explain": "Pruna AI 由 H3 视频模型改出的开源快速图像模型，8 步出 16MP 图，RTX 5090 可跑",
+   "category": "图片",
+   "tool_type": "文生图",
+   "source_platform": "X 热门 + Hugging Face",
+   "source_url": "https://x.com/i/trending/2117711310443958300",
+   "extra_links": [
+    "https://huggingface.co/PrunaAI/P-H3-Image-Comfy",
+    "https://huggingface.co/spaces/PrunaAI/P-H3-Image",
+    "https://x.com/i/trending/2119857413717450904"
+   ],
+   "first_seen": "2026-10-27（HF 创建）",
+   "breakout_date": "2026-11-03",
+   "trend": "下降",
+   "trend_evidence": "X 11/09 全天 175 帖，11/10_22h 107 帖，近 6 小时约 +20；7 日 2,036 帖。HF P-H3-Image-Comfy 下载停在 782,946，赞 279→282，Space 赞 82→90。关键变化：MiniMax 官方 H3-Image 开源权重已发布（HF 热榜第 8），X 上有人直接评论“社区比 MiniMax 早一周做出了基于 H3 的图像模型”，官方版本会分流这个社区版的关注。",
+   "user_need": "试用最新开源高清文生图",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "ChatGPT/Gemini 都能生图，用户找的是这个特定模型的效果和无限制试用",
+   "underlying_models": "PrunaAI/P-H3-Image（开源）",
+   "cost_estimate": "电费约 3-10 美分/张（Reddit 实测帖，按显卡不同）",
+   "competition": "官方渠道已提供 H3 Image 早鸟，模型名套壳站价值低。",
+   "domain_taken": "ph3image.com、p-h3-image.com RDAP 未查到",
+   "pay_potential": "低",
+   "pricing_model": "积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "ph3image.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "p-h3-image.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 4.5,
+   "risks": "官方 H3-Image 开源后社区版被替代的风险高；模型名词条，不构成独立消费搜索词",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "VOCALOID7",
+   "cn_explain": "雅马哈歌声合成软件 VOCALOID 时隔四年的新版，11/11 发售；搭载第 2 代 VOCALOID:AI 引擎，同步推出 AI Megpoid 等 5 款专用语音库",
+   "category": "音频",
+   "tool_type": "歌声合成/语音库",
+   "source_platform": "雅马哈官网 + X 帖数",
+   "source_url": "https://www.yamaha.com/ja/news_release/2026/26102302/",
+   "extra_links": [
+    "https://www.vocaloid.com/",
+    "https://www.ssw.co.jp/products/vocaloid7/megpoid/function.html"
+   ],
+   "first_seen": "2026-10-23（雅马哈新闻稿）",
+   "breakout_date": "2026-11-06（X 讨论高峰）",
+   "trend": "平稳",
+   "trend_evidence": "官方发售日 2026-11-11（日本/北京时间）。X 11/09 全天 642 帖，11/10_22h 487 帖，近 6 小时约 +79；7 日 7,257 帖。日本零点（UTC 15:00）之后的小时帖数为 23 / 14 / 16 / 10 / 16 / 12 / 13，没有出现发售冲刺；但目前日本时间才早上 7 点，日本白天尚未开始，不能下“发售日无高峰”的结论。本期新闻检索未见 VOCALOID7 报道。精确「AI singing voicebank / AI vocaloid alternative」7 日仅 3 帖、11/10_22h 2 帖，长尾仍未出现。",
+   "user_need": "用新版语音库做歌声合成，或找更便宜的 AI 歌声/voicebank 替代",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "Gemini 内置 Lyria 3.5 能直接出完整歌曲（最多 3 分钟），但无法提供 VOCALOID 式可调语音库/参数化歌声；聊天 AI 也不能替代官方编辑器",
+   "underlying_models": "Yamaha VOCALOID:AI（官方付费软件）；开源/托管替代需另寻（Chimera 是物理建模而非 voicebank）",
+   "cost_estimate": "官方 Editor 16,500 日元（含税）；升级版 8,580 日元，11/11–12/20 促销 5,500 日元；专用语音库约 11,000–11,220 日元（雅马哈新闻稿）",
+   "competition": "这是官方语音库产品。可观察的是发售后是否出现 “AI singing voicebank / AI vocaloid alternative” 长尾；「ai singing voice generator」联想很强，但 DDG 前 10 已有 musely、openmusic、media.io、musiccreator、soundverse、onlymusic、acestudio、vocuno 等，赛道拥挤。不要用 VOCALOID 做站名。",
+   "domain_taken": "不要用 VOCALOID 做站名（商标）；通用歌声词域名本期未查 RDAP",
+   "pay_potential": "中",
+   "pricing_model": "不建议做 VOCALOID7 套壳；若做通用 AI 歌声/voicebank 可用积分制，但红海风险高",
+   "difficulty": "高",
+   "domains": [],
+   "score": 4.5,
+   "risks": "Yamaha/Crypton 等商标与语音库版权；11/11 官方发售后搜索会被官网吸走；通用 AI 歌声赛道已拥挤",
+   "regions": "日本为主，全球 Vocaloid 圈",
+   "status": "持续"
+  },
+  {
+   "keyword": "MOSS Image",
+   "cn_explain": "OpenMOSS 新开源图像模型，社区出 Disney 风 LoRA、52 条电影镜头提示词",
+   "category": "图片",
+   "tool_type": "文生图",
+   "source_platform": "Reddit r/StableDiffusion",
+   "source_url": "https://www.reddit.com/r/StableDiffusion/comments/1xozyl0/52_film_and_camera_prompts_for_moss_image/",
+   "extra_links": [
+    "https://www.reddit.com/r/StableDiffusion/comments/1xnwot8/disney_style_lora_for_moss/",
+    "https://huggingface.co/spaces/hide1/MOSS-Image-Character-Catalog"
+   ],
+   "first_seen": "2026-10 下旬（待验证）",
+   "breakout_date": "2026-11-04",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 84 帖，11/10_22h 121 帖（已超过昨天全天），近 6 小时约 +20；7 日 970 帖。Reddit r/StableDiffusion 当日榜有 MOSS-Image-SFT 控制 LoRA（pose/depth/canny）和 SolordZ_Realism_Moss_Base；HF Space hide1/MOSS-Image-Character-Catalog 进入 Spaces 热榜第 21。社区生态在长，但讨论量仍中低位。",
+   "user_need": "在线试用 MOSS Image 出图",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "通用 AI 能生图，但用户想要该模型风格",
+   "underlying_models": "MOSS Image（开源）",
+   "cost_estimate": "待验证",
+   "competition": "mossimage.ai 已注册，模型名站点价值有限。",
+   "domain_taken": "mossimage.ai / .com 已注册",
+   "pay_potential": "低",
+   "pricing_model": "积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "mossimage.ai",
+     "status": "已注册"
+    }
+   ],
+   "score": 4.5,
+   "risks": "已被抢注；Disney 风 LoRA 版权风险",
+   "regions": "全球",
+   "status": "持续"
+  },
+  {
+   "keyword": "Forsaken OC maker",
+   "cn_explain": "Roblox 恐怖游戏 Forsaken 11/07 万圣节更新，玩家做原创角色（OC）设定图",
+   "category": "游戏相关",
+   "tool_type": "AI 角色生成",
+   "source_platform": "X 热门（游戏）",
+   "source_url": "https://x.com/i/trending/2118849872359051761",
+   "extra_links": [],
+   "first_seen": "2026-11-07（更新）",
+   "breakout_date": "待验证",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 18 帖，11/10_22h 32 帖（已超过昨天全天），近 6 小时约 +15；7 日 282 帖。止跌，小幅回升，绝对量仍低。",
+   "user_need": "生成 Forsaken 风格的原创角色图",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "通用 AI 能画但风格不像",
+   "underlying_models": "Flux/Qwen-Image + 风格 LoRA",
+   "cost_estimate": "低",
+   "competition": "游戏 OC 生成器已有一批，版权风险取决于角色来源。",
+   "domain_taken": "forsakenocmaker.com RDAP 未查到",
+   "pay_potential": "低",
+   "pricing_model": "广告+小额积分",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "forsakenocmaker.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 4.0,
+   "risks": "用户多为未成年人，付费弱；游戏 IP 风险",
+   "regions": "美国",
+   "status": "持续"
+  },
+  {
+   "keyword": "Frameboy（World Labs）",
+   "cn_explain": "World Labs 浏览器实时世界模型 demo，可用键鼠在生成场景里走动",
+   "category": "其他",
+   "tool_type": "世界模型/交互 3D",
+   "source_platform": "X 热门 + Product Hunt",
+   "source_url": "https://x.com/i/trending/2118448210276753768",
+   "extra_links": [
+    "https://frameboy.worldlabs.ai"
+   ],
+   "first_seen": "2026-11-05",
+   "breakout_date": "2026-11-06",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 11/09 全天重计 33 帖（上期记 39），11/10_22h 仅 4 帖（上期 16 小时记 7，重计后变少）；7 日 313 帖，维持低位。本期 Product Hunt 馈源标题中仍未见 Frameboy。API 是否开放仍待验证。",
+   "user_need": "把照片变成可行走的 3D 世界",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需世界模型",
+   "underlying_models": "World Labs Atlas（API 开放情况待验证）",
+   "cost_estimate": "待验证",
+   "competition": "frameboy.ai 已注册。在 API/消费入口未明确前，不适合建站。",
+   "domain_taken": "frameboy.ai 已注册",
+   "pay_potential": "低",
+   "pricing_model": "待定",
+   "difficulty": "高",
+   "domains": [
+    {
+     "domain": "frameboy.ai",
+     "status": "已注册"
+    }
+   ],
+   "score": 4.0,
+   "risks": "无公开 API；品牌词",
+   "regions": "全球",
+   "status": "观察"
+  },
+  {
+   "keyword": "mytype / AI attraction type test",
+   "cn_explain": "上传/点选 AI 生成面孔、训练出“你喜欢哪类脸”的测验（mytype.fyi），输出如 girl next door、androgynous 等标签组合",
+   "category": "图片",
+   "tool_type": "人脸偏好测验",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2119272417789157495",
+   "extra_links": [
+    "https://x.com/i/trending/2119105535072976913",
+    "https://mytype.fyi"
+   ],
+   "first_seen": "2026-11-07（X 起量）",
+   "breakout_date": "2026-11-07",
+   "trend": "爆发后回落",
+   "trend_evidence": "**口径变更**：上期查询无法复现，本期用「mytype」单词查询：11/07 1,625、11/08 831、11/09 785、11/10_22h 517；7 日 6,059 帖（宽口径含其它“my type”语境）。同一口径内仍在从峰值回落。新闻摘要仍在更新（北京时间 11/11 05:31，“自然脸 vs 浓妆”偏好之争）。",
+   "user_need": "测自己被什么样的脸吸引，并分享结果截图",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "聊天 AI 可以口头描述偏好，但做不到这个站点的多轮点选+模型拟合交互",
+   "underlying_models": "站点使用合成面孔（X 摘要称 synthetic faces）；具体模型未公开",
+   "cost_estimate": "测验本身算力低；克隆成本低",
+   "competition": "原站 mytype.fyi 已爆发并出现克隆，不建议跟风。",
+   "domain_taken": "mytype.fyi 为原站；不建议再做同名克隆",
+   "pay_potential": "低",
+   "pricing_model": "病毒测验多为免费+广告；详细报告小额付费，但伦理与支付风控差",
+   "difficulty": "低",
+   "domains": [],
+   "score": 4.0,
+   "risks": "与 AI 颜值打分类同：偏见/伦理争议；原站已爆发、克隆站已出现；不符合“做结果交付类 AI 工具站”的优先方向",
+   "regions": "英语圈为主",
+   "status": "持续"
+  },
+  {
+   "keyword": "AI attractiveness test",
+   "cn_explain": "AI 颜值打分：开发者逆向发现 TikTok 内置颜值/年龄模型后再度被讨论",
+   "category": "图片",
+   "tool_type": "人脸分析",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2117979576559436027",
+   "extra_links": [],
+   "first_seen": "2026-11-06（TikTok 逆向新闻）",
+   "breakout_date": "待验证",
+   "trend": "平稳",
+   "trend_evidence": "X「AI attractiveness test / attractiveness test AI」7 日仅 3 帖（本期口径，上期记 8），11/10_22h 1 帖。社交几乎没有。",
+   "user_need": "上传自拍得到颜值分",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "联想词显示用户已在用 ChatGPT/Claude 打分",
+   "underlying_models": "人脸属性模型（开源多）",
+   "cost_estimate": "极低",
+   "competition": "专门打分站已饱和，且有伦理争议，维持放弃。",
+   "domain_taken": "rateface.ai、facescore.ai RDAP 未查到",
+   "pay_potential": "低",
+   "pricing_model": "详细报告小额付费",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "rateface.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "facescore.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 4.0,
+   "risks": "偏见/伦理争议；竞争饱和",
+   "regions": "全球",
+   "status": "放弃"
+  },
+  {
+   "keyword": "LTX-2.5",
+   "cn_explain": "Lightricks 开源图生视频模型，HF 热榜常驻",
+   "category": "视频",
+   "tool_type": "视频生成",
+   "source_platform": "Hugging Face Trending",
+   "source_url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "extra_links": [],
+   "first_seen": "2026-07-23",
+   "breakout_date": "2026-07/08",
+   "trend": "平稳",
+   "trend_evidence": "X 11/09 全天 39 帖，11/10_22h 59 帖，近 6 小时约 +15；7 日 362 帖。HF Lightricks/LTX-2.5 下载停在 2,791,606，赞 11,329→11,366，仍在模型热榜第 5。7 月发布，已非新词。",
+   "user_need": "在线免费跑 LTX",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需视频模型",
+   "underlying_models": "LTX-2.5（开源）",
+   "cost_estimate": "待验证",
+   "competition": "ltx.io 官方 + ltx-ai.com 等",
+   "domain_taken": "ltx25.com 已注册",
+   "pay_potential": "中",
+   "pricing_model": "积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "ltx-2-5.com",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    },
+    {
+     "domain": "ltx25.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 4.0,
+   "risks": "已非新词",
+   "regions": "全球",
+   "status": "过热"
+  },
+  {
+   "keyword": "Seedance 2.5",
+   "cn_explain": "字节 Seedance 2.5（7/31 发布）30 秒带音频视频，X 持续刷屏",
+   "category": "视频",
+   "tool_type": "视频生成",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2118264704204226796",
+   "extra_links": [
+    "https://replicate.com/bytedance/seedance-2.5"
+   ],
+   "first_seen": "2026-07-31",
+   "breakout_date": "2026-08",
+   "trend": "平稳高位",
+   "trend_evidence": "X 11/09 全天重计 5,047 帖（上期记 5,051），11/10_22h 4,365 帖，近 6 小时约 +1,159；7 日 45,134 帖。Replicate bytedance/seedance-2.5 368,632→370,101 runs。讨论量仍高，但是红海。",
+   "user_need": "用 Seedance 2.5 生成视频",
+   "general_ai_can_do": "不能",
+   "general_ai_reason": "需视频模型",
+   "underlying_models": "Seedance 2.5（Replicate/Dreamina）",
+   "cost_estimate": "待验证",
+   "competition": "官方渠道和套壳站泛滥，不建议建站。",
+   "domain_taken": "seedance25.com 已注册",
+   "pay_potential": "高",
+   "pricing_model": "积分",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "seedance25.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 3.5,
+   "risks": "红海",
+   "regions": "全球",
+   "status": "过热"
+  },
+  {
+   "keyword": "Seedream 5.5",
+   "cn_explain": "字节 Seed 团队 2026-11-09 发布的下一代图像生成/编辑模型：号称可做约 100 轮像素级稳定局部编辑、原生输出透明/半透明 RGBA 素材，并改进人像质感和文字渲染",
+   "category": "图片",
+   "tool_type": "图片生成/图片编辑",
+   "source_platform": "X 热门 + 字节官方博客",
+   "source_url": "https://x.com/i/trending/2119765260840370434",
+   "extra_links": [
+    "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+    "https://seed.bytedance.com/en/seedream5_5",
+    "https://dreamina.capcut.com/seedream/seedream-5-5",
+    "https://x.com/i/trending/2119765260840370434"
+   ],
+   "first_seen": "2026-11-09",
+   "breakout_date": "2026-11-09",
+   "trend": "爆发后回落",
+   "trend_evidence": "X 11/09 全天重计 6,264 帖（上期记 6,321），11/10_22h 4,533 帖，近 6 小时仅约 +514（上一轮 6 小时约 +1,169），明显放缓；7 日 10,838 帖。Replicate 官方 Seedream 5.5 页仍 404；seedream-5-lite（5.0 精简版）3,628,960 runs，不要当成 5.5 已上架。",
+   "user_need": "用新模型生成或精修电商图、海报、透明 PNG 素材",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "ChatGPT/Gemini 能做基础修图和透明背景，但做不到官方宣传的像素级百轮稳定编辑和原生 RGBA 工作流",
+   "underlying_models": "Seedream 5.5（Dreamina / CapCut / BytePlus / 豆包 / 火山方舟）；Replicate 官方页本期 404",
+   "cost_estimate": "X 新闻称约 2 美分/张；Dreamina 有“至 11 月中无限生成”的说法（待验证）",
+   "competition": "官方已在 Dreamina、CapCut、BytePlus 等渠道上线，套壳站已在。不追模型名；若出现更垂直的 “AI RGBA product asset / transparent product mockup” 强搜索词再单列评估。",
+   "domain_taken": "seedream55.com 上期 RDAP 已注册；不建议再注册模型名单词",
+   "pay_potential": "低",
+   "pricing_model": "不建议做套壳站；官方渠道便宜且有促销",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "seedream55.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 3.5,
+   "risks": "官方平台齐全且正在促销；发布当天已有套壳站；用模型名做站没有窗口。社交热度本期继续高位，但不改变建站结论。透明 PNG/电商精修本身是真需求，但独立搜索词尚未形成可建站窗口",
+   "regions": "全球（中文圈与英语圈同步）",
+   "status": "过热"
+  },
+  {
+   "keyword": "Gemini Omni 1.2 Flash",
+   "cn_explain": "11/05 Google 发布：15 秒原生视频、对话式编辑，720p 降至 $0.07/秒",
+   "category": "视频",
+   "tool_type": "视频生成",
+   "source_platform": "X 热门 + Product Hunt",
+   "source_url": "https://x.com/i/trending/2118992532881145895",
+   "extra_links": [
+    "https://replicate.com/google/gemini-omni-1.2-flash"
+   ],
+   "first_seen": "2026-11-05",
+   "breakout_date": "2026-11-06",
+   "trend": "爆发后回落",
+   "trend_evidence": "**口径变更**：本期用「Gemini Omni」查询（上期 11/09 记 640，无法复现）：11/06 峰值 2,991，11/09 536，11/10_22h 406；7 日 7,868 帖。Replicate google/gemini-omni-1.2-flash 1,453→1,587 runs。Gemini App 可直接用。",
+   "user_need": "视频生成",
+   "general_ai_can_do": "能",
+   "general_ai_reason": "Gemini App 内直接可用",
+   "underlying_models": "Gemini API",
+   "cost_estimate": "$0.07/秒 720p（X 摘要）",
+   "competition": "Google 自有入口",
+   "domain_taken": "—",
+   "pay_potential": "低",
+   "pricing_model": "—",
+   "difficulty": "—",
+   "domains": [],
+   "score": 3.0,
+   "risks": "通用 AI 直接满足；可作为后端 API",
+   "regions": "全球",
+   "status": "放弃"
+  },
+  {
+   "keyword": "ChatGPT fill empty room trend",
+   "cn_explain": "上传空房间照片让 ChatGPT 按“对我的了解”布置房间",
+   "category": "图片",
+   "tool_type": "图片编辑",
+   "source_platform": "X 热门",
+   "source_url": "https://x.com/i/trending/2119596304825303531",
+   "extra_links": [
+    "https://x.com/i/trending/2118885281772269621",
+    "https://x.com/i/trending/2119596304825303531"
+   ],
+   "first_seen": "2026-11-05",
+   "breakout_date": "2026-11-07",
+   "trend": "爆发后回落",
+   "trend_evidence": "**口径变更**：本期用 ChatGPT \"empty room\" 查询（上期 11/09 记 74，无法复现）：11/08 34、11/09 11、11/10_22h 6；7 日 109 帖。新闻摘要仍挂在信息流（北京时间 11/11 04:54 更新），但玩法依赖 ChatGPT 记忆，工具站无优势。",
+   "user_need": "看 AI 眼中的“我的房间”",
+   "general_ai_can_do": "能",
+   "general_ai_reason": "依赖 ChatGPT 记忆，ChatGPT 本身直接完成",
+   "underlying_models": "GPT Image 2.6",
+   "cost_estimate": "—",
+   "competition": "无需工具站",
+   "domain_taken": "roomfiller.ai / fillmyroom.ai RDAP 未查到",
+   "pay_potential": "低",
+   "pricing_model": "—",
+   "difficulty": "低",
+   "domains": [
+    {
+     "domain": "fillmyroom.ai",
+     "status": "RDAP 未查到(可能可注册，下单前复核)"
+    }
+   ],
+   "score": 2.5,
+   "risks": "被通用 AI 直接满足，不符合筛选逻辑",
+   "regions": "西语区也在玩",
+   "status": "放弃"
+  },
+  {
+   "keyword": "GPT Image 2.6（ChatGPT GIF）",
+   "cn_explain": "11/04 ChatGPT 原生支持生成动图 GIF 与 SVG",
+   "category": "图片",
+   "tool_type": "动图",
+   "source_platform": "X 热门 + Product Hunt",
+   "source_url": "https://x.com/i/trending/2118849874833596578",
+   "extra_links": [
+    "https://www.producthunt.com/"
+   ],
+   "first_seen": "2026-11-04",
+   "breakout_date": "2026-11-05",
+   "trend": "爆发后回落",
+   "trend_evidence": "**口径变更**：本期用「\"GPT Image 2.6\" OR (ChatGPT GIF)」查询（上期 11/09 记 839，无法复现）：11/05 峰值 7,698，11/09 1,145，11/10_22h 875；7 日 15,516 帖。同一口径内持续回落。属 ChatGPT 原生能力。",
+   "user_need": "生成 GIF",
+   "general_ai_can_do": "能",
+   "general_ai_reason": "ChatGPT 已原生支持",
+   "underlying_models": "GPT Image 2.6（fal 已接入）",
+   "cost_estimate": "—",
+   "competition": "对“ai gif maker”类站（magichour、picsart、fotor 等）构成冲击",
+   "domain_taken": "—",
+   "pay_potential": "低",
+   "pricing_model": "—",
+   "difficulty": "—",
+   "domains": [],
+   "score": 2.0,
+   "risks": "通用 AI 替代",
+   "regions": "全球",
+   "status": "放弃"
+  },
+  {
+   "keyword": "MiniMax H3-Image（开源权重）",
+   "cn_explain": "MiniMax 在 11/10 晚放出的图像生成+编辑模型开源权重（约 33B DiT，原生 4K/1600 万像素，最多 16 张参考图编辑），ComfyUI 首日支持",
+   "category": "图片",
+   "tool_type": "图片生成/图片编辑",
+   "source_platform": "Hugging Face / X / Reddit r/StableDiffusion",
+   "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+   "extra_links": [
+    "https://www.reddit.com/r/StableDiffusion/comments/1xsoblk/minimax_h3image_released/",
+    "https://www.reddit.com/r/StableDiffusion/comments/1xsrphc/minimax_h3_image_is_natively_supported_in_comfyui/",
+    "https://x.com/ivanfioravanti/status/2120158954852335953",
+    "https://x.com/hellorob/status/2120187661449351428",
+    "https://x.com/i/trending/2119857413717450904"
+   ],
+   "first_seen": "2026-11-10（此前以 Hailuo 早鸟形式出现在 MiniMax H3 词条下）",
+   "breakout_date": "2026-11-10 UTC 约 14:17（北京 22:17）开源权重发布",
+   "trend": "爆发",
+   "trend_evidence": "X「H3 Image / H3-Image」11/09 609 帖 → 11/10_22h 5,666 帖；7 日 8,045 帖（11/10_22h = UTC 11/10 0 点至约 22:08，即北京 11/10 08:00–11/11 06:08，不完整，不可外推；近 6 小时 = 第 8 期取样 UTC 约 16:13 之后）。更宽的「MiniMax H3」查询小时帖数在 UTC 16:00 见顶 812 后回落到 21:00 的 217。HF 仓库创建于 11/03、11/10 UTC 16:21 更新，进入模型热榜第 8（赞 338、下载 667）。Reddit r/StableDiffusion 当日榜前列大多是 H3-Image（发布、Comfy 权重、推荐尺寸、2 步 LoRA、提示词技能、与 Krea2 对比）。Google 联想已出现 minimax h3 image to video / generation / edit / edit workflow / studio。Replicate 上 minimax/h3-image 页面仍 404。",
+   "user_need": "想在线试用/批量用 H3-Image 出 4K 图或做多参考图编辑，不想本地部署",
+   "general_ai_can_do": "部分能",
+   "general_ai_reason": "ChatGPT/Gemini 能出图和简单编辑，但不提供 H3-Image 本身、16 张参考图一致编辑和原生 4K 输出",
+   "underlying_models": "MiniMax-H3-Image（官方 API platform.minimax.io；开源权重 HF）；PrunaAI P-H3-Image 社区版",
+   "cost_estimate": "官方 API 价格待验证；X 帖称 RTX PRO 6000 上 6 步出 4K 约 7 秒、RTX 3080 加 offload 可跑（单人测试，待验证）",
+   "competition": "官方 Hailuo / MiniMax Code / API 已直接开放，HF 有官方与社区 Space。DDG「minimax h3 image」本期返回为空（属波动）。模型名站点会被官方和大量套壳挤压。",
+   "domain_taken": "本期 RDAP：h3image.com、minimaxh3image.com 已注册；h3image.ai、h3imageai.com 未注册(RDAP 404)。不建议用模型名建站。",
+   "pay_potential": "中",
+   "pricing_model": "不建议单独建站；可作为换装/抠衣/商品图工具的底层，按张计费",
+   "difficulty": "中",
+   "domains": [
+    {
+     "domain": "h3image.ai",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "h3imageai.com",
+     "status": "未注册(RDAP 404)"
+    },
+    {
+     "domain": "h3image.com",
+     "status": "已注册"
+    },
+    {
+     "domain": "minimaxh3image.com",
+     "status": "已注册"
+    }
+   ],
+   "score": 4.5,
+   "risks": "开源许可证（MiniMax-H3-Image Community License）明确排除美国、欧盟、英国、韩国，在这些地区使用、分发或输出均不被授权，需另行向 MiniMax 申请；商用须在界面显著标注“MiniMax-H3-Image”；模型名/商标风险；官方渠道齐全，热度以开发者为主，消费搜索词尚未形成",
+   "regions": "许可证适用区（排除美/欧/英/韩）；面向欧美用户须走官方 API",
+   "status": "新"
+  }
+ ]
+}

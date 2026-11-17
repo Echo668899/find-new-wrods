@@ -1,0 +1,9 @@
+name = "newwords"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+workers_dev = true
+account_id = "92d5bc6038e714377091f4c7f05fee56" # pragma: allowlist secret
+
+[[kv_namespaces]]
+binding = "DATA"
+id = "f31770c4b7be477aa6842d42d66c1909"

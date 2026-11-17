@@ -1,0 +1,26 @@
+.env
+.env.*
+*.pem
+*.key
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+node_modules/
+.wrangler/
+.wrangler-dry-run/
+npm-debug.log*
+
+# Local discovery state. Never publish.
+newwords/state/library.json
+newwords/state/pool.json
+newwords/state/pool_entry.template.json
+newwords/raw/
+newwords/rounds/
+newwords/research/
+newwords/prompts_src/
+newwords/examples/
